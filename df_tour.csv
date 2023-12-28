@@ -1,0 +1,741 @@
+City,Country,Venue,Opening act(s),Revenue,Tour,Latitude,Longitude,Tickets sold,Available,Difference,concert_date
+Evansville,United States,Roberts Municipal Stadium,Gloriana and Kellie Pickler,360617.0,Fearless Tour,37.970495,-87.5715641,7463.0,7463.0,0.0,2009-04-23
+Jonesboro,United States,Convocation Center,Gloriana and Kellie Pickler,340328.0,Fearless Tour,35.8272257,-90.6949871,7822.0,7822.0,0.0,2009-04-24
+St. Louis,United States,Scottrade Center,Gloriana and Kellie Pickler,650420.0,Fearless Tour,38.6280278,-90.1910154,13764.0,13764.0,0.0,2009-04-25
+Alexandria,United States,Bishop Ireton High School,Gloriana and Kellie Pickler,0.0,Fearless Tour,38.8051095,-77.0470229,,,,2009-04-28
+North Charleston,United States,North Charleston Coliseum,Gloriana and Kellie Pickler,398154.0,Fearless Tour,32.8546197,-79.9748103,8751.0,8751.0,0.0,2009-04-30
+Jacksonville,United States,Jacksonville Veterans Memorial Arena,Gloriana and Kellie Pickler,507012.0,Fearless Tour,30.3321838,-81.655651,11072.0,11072.0,0.0,2009-05-01
+Biloxi,United States,Mississippi Coast Coliseum,Gloriana and Kellie Pickler,437313.0,Fearless Tour,30.4007626,-88.8893818,9436.0,9436.0,0.0,2009-05-02
+London,England,Shepherd's Bush Empire,,401328.0,Fearless Tour,51.5074456,-0.1277653,6789.0,6789.0,0.0,2009-05-06
+London,England,Shepherd's Bush Empire,,401328.0,Fearless Tour,51.5074456,-0.1277653,6789.0,6789.0,0.0,2009-05-07
+London,England,Shepherd's Bush Empire,,401328.0,Fearless Tour,51.5074456,-0.1277653,6789.0,6789.0,0.0,2009-05-06
+London,England,Shepherd's Bush Empire,,401328.0,Fearless Tour,51.5074456,-0.1277653,6789.0,6789.0,0.0,2009-05-07
+Spokane,United States,Spokane Arena,Gloriana and Kellie Pickler,482146.0,Fearless Tour,47.6571934,-117.42351,10798.0,10798.0,0.0,2009-05-14
+Seattle,United States,KeyArena,Gloriana and Kellie Pickler,528637.0,Fearless Tour,47.6038321,-122.330062,12061.0,12061.0,0.0,2009-05-15
+Portland,United States,Moda Center,Gloriana and Kellie Pickler,613284.0,Fearless Tour,45.5202471,-122.674194,13226.0,13226.0,0.0,2009-05-16
+Nampa,United States,Ford Arena,Gloriana and Kellie Pickler,413622.0,Fearless Tour,43.5737361,-116.559631,8970.0,8970.0,0.0,2009-05-17
+Glendale,United States,Jobing.com Arena,Gloriana and Kellie Pickler,647923.0,Fearless Tour,34.1469416,-118.2478471,13052.0,13052.0,0.0,2009-05-21
+Los Angeles,United States,Staples Center,Gloriana and Kellie Pickler,720940.0,Fearless Tour,34.0536909,-118.242766,13648.0,13648.0,0.0,2010-04-15
+Los Angeles,United States,Staples Center,Gloriana and Kellie Pickler,720940.0,Fearless Tour,34.0536909,-118.242766,13648.0,13648.0,0.0,2010-04-16
+Las Vegas,United States,Mandalay Bay Events Center,Gloriana and Kellie Pickler,551051.0,Fearless Tour,36.1011223,-115.1479329,8311.0,8311.0,0.0,2009-05-23
+San Diego,United States,Valley View Casino Center,Gloriana and Kellie Pickler,502689.0,Fearless Tour,32.7174202,-117.1627728,10174.0,10174.0,0.0,2009-05-24
+Salt Lake City,United States,EnergySolutions Arena,Gloriana and Kellie Pickler,555207.0,Fearless Tour,40.7596198,-111.886797,13042.0,13042.0,0.0,2009-05-26
+New Brockton,United States,BamaJam Farms,,0.0,Fearless Tour,31.3857239,-85.9293861,,,,
+Columbia,United States,Merriweather Post Pavilion,Gloriana and Kellie Pickler,608438.0,Fearless Tour,34.0003117,-81.0331309,17619.0,17619.0,0.0,2009-06-11
+Greensboro,United States,Greensboro Coliseum Complex,Gloriana and Kellie Pickler,690959.0,Fearless Tour,36.0726355,-79.7919754,14641.0,14641.0,0.0,2009-06-12
+Oshkosh,United States,Ford Festival Park,,0.0,Fearless Tour,44.0206919,-88.5408574,,,,2009-06-24
+Cadott,United States,Amphitheatre Concert Grounds,,0.0,Fearless Tour,44.9480187,-91.1507031,,,,2009-06-25
+Calgary,Canada,Pengrowth Saddledome,Gloriana and Kellie Pickler,0.0,Fearless Tour,51.0456064,-114.057541,,,,2009-07-08
+Edmonton,Canada,Commonwealth Stadium,,2540906.0,Fearless Tour,53.5462055,-113.491241,33910.0,44500.0,10590.0,2009-07-09
+Craven,Canada,Big Valley Park,,0.0,Fearless Tour,50.7072638,-104.8092048,,,,2009-07-10
+Winnipeg,Canada,MTS Centre,Gloriana and Kellie Pickler,512487.0,Fearless Tour,49.8955367,-97.1384584,11369.0,11369.0,0.0,2009-07-11
+Twin Lakes,United States,Country Thunder Festival,,0.0,Fearless Tour,43.5596779,-93.4229885,,,,2009-07-16
+Columbus,United States,Value City Arena,Gloriana and Kellie Pickler,0.0,Fearless Tour,39.9622601,-83.0007065,,,,2009-07-17
+Charleston,United States,Charleston Civic Center,Gloriana and Kellie Pickler,0.0,Fearless Tour,32.7884363,-79.9399309,,,,2009-07-18
+Cheyenne,United States,Cheyenne Frontier Days Arena,Kellie Pickler,0.0,Fearless Tour,41.139981,-104.820246,,,,2009-07-23
+Rapid City,United States,Barnett Arena,Gloriana and Kellie Pickler,0.0,Fearless Tour,44.0806041,-103.228023,,,,2009-07-24
+Minot,United States,North Dakota State Fair Grandstand,,0.0,Fearless Tour,48.23251,-101.296273,,,,2009-07-25
+Philadelphia,United States,Wachovia Spectrum,Gloriana and Kellie Pickler,0.0,Fearless Tour,39.9527237,-75.1635262,,,,2010-03-18
+Philadelphia,United States,Wachovia Spectrum,Gloriana and Kellie Pickler,0.0,Fearless Tour,39.9527237,-75.1635262,,,,2010-03-19
+Detroit Lakes,United States,Soo Pass Ranch,,0.0,Fearless Tour,46.817181,-95.845325,,,,2009-08-07
+Omaha,United States,Qwest Center Omaha,Gloriana and Kellie Pickler,0.0,Fearless Tour,41.2587459,-95.9383758,,,,2009-08-09
+Chelmsford,England,Hylands Park,,0.0,Fearless Tour,51.7345329,0.4730532,,,,2009-08-22
+Chelmsford,England,Hylands Park,,0.0,Fearless Tour,51.7345329,0.4730532,,,,2009-08-23
+Weston-under-Lizard,England,Weston Park,,0.0,Fearless Tour,52.6957818,-2.2908629,,,,
+New York City,United States,Madison Square Garden,Gloriana and Kellie Pickler,976062.0,Fearless Tour,40.7127281,-74.0060152,13597.0,13597.0,0.0,2009-08-27
+Montville,United States,Mohegan Sun Arena,Gloriana and Kellie Pickler,296306.0,Fearless Tour,44.4460367,-69.2729194,7507.0,7507.0,0.0,2009-08-28
+University Park,United States,Bryce Jordan Center,Gloriana and Kellie Pickler,0.0,Fearless Tour,41.4400344,-87.683377,,,,2009-08-29
+Louisville,United States,Freedom Hall,Gloriana and Kellie Pickler,0.0,Fearless Tour,38.2542376,-85.759407,,,,2009-08-30
+Duluth,United States,Arena at Gwinnett Center,Gloriana and Kellie Pickler,0.0,Fearless Tour,46.7729322,-92.1251218,,,,2009-09-03
+Greenville,United States,Bi-Lo Center,Gloriana and Kellie Pickler,0.0,Fearless Tour,34.851354,-82.3984882,,,,2009-09-04
+Charlotte,United States,Time Warner Cable Arena,Gloriana and Kellie Pickler,0.0,Fearless Tour,35.2272086,-80.8430827,,,,2009-09-05
+Lafayette,United States,Cajundome,Gloriana and Kellie Pickler,0.0,Fearless Tour,29.9978185,-83.2221527,,,,2009-09-09
+Bossier City,United States,CenturyLink Center,Gloriana and Kellie Pickler,0.0,Fearless Tour,32.515887,-93.7336536,,,,2009-09-10
+Birmingham,United States,BJCC Arena,Gloriana and Kellie Pickler,0.0,Fearless Tour,33.5206824,-86.8024326,,,,2009-09-11
+Nashville,United States,Bridgestone Arena,Gloriana and Kellie Pickler,642387.0,Fearless Tour,36.1622767,-86.7742984,14269.0,14269.0,0.0,2009-09-12
+Dallas,United States,American Airlines Center,Gloriana and Kellie Pickler,628062.0,Fearless Tour,32.7762719,-96.7968559,13794.0,13794.0,0.0,2009-09-25
+Dallas,United States,American Airlines Center,Gloriana and Kellie Pickler,628062.0,Fearless Tour,32.7762719,-96.7968559,13794.0,13794.0,0.0,2010-03-11
+North Little Rock,United States,Verizon Arena,Gloriana and Kellie Pickler,654089.0,Fearless Tour,34.769536,-92.2670941,13978.0,13978.0,0.0,2009-09-26
+Tulsa,United States,BOK Center,Gloriana and Kellie Pickler,0.0,Fearless Tour,36.1563122,-95.9927516,,,,2009-09-27
+Pittsburgh,United States,Mellon Arena,Gloriana and Kellie Pickler,0.0,Fearless Tour,40.4416941,-79.9900861,,,,2009-10-01
+Grand Rapids,United States,Van Andel Arena,Gloriana and Kellie Pickler,0.0,Fearless Tour,42.9632425,-85.6678639,,,,2009-10-02
+Cleveland,United States,Quicken Loans Arena,Gloriana and Kellie Pickler,743492.0,Fearless Tour,41.4996574,-81.6936772,15524.0,15524.0,0.0,2009-10-03
+Indianapolis,United States,Conseco Fieldhouse,Gloriana and Kellie Pickler,634876.0,Fearless Tour,39.7683331,-86.1583502,13373.0,13373.0,0.0,2009-10-08
+Chicago,United States,Allstate Arena,Gloriana and Kellie Pickler,1150896.0,Fearless Tour,41.9941334,-87.8756737,26265.0,26265.0,0.0,2009-10-09
+Chicago,United States,Allstate Arena,Gloriana and Kellie Pickler,1150896.0,Fearless Tour,41.9941334,-87.8756737,26265.0,26265.0,0.0,2009-10-10
+Chicago,United States,Allstate Arena,Gloriana and Kellie Pickler,1150896.0,Fearless Tour,41.9941334,-87.8756737,26265.0,26265.0,0.0,2009-10-09
+Chicago,United States,Allstate Arena,Gloriana and Kellie Pickler,1150896.0,Fearless Tour,41.9941334,-87.8756737,26265.0,26265.0,0.0,2009-10-10
+Minneapolis,United States,Target Center,Gloriana and Kellie Pickler,623975.0,Fearless Tour,44.9772995,-93.2654692,13563.0,13563.0,0.0,2009-10-11
+London,England,Wembley Arena,Justin Bieber,0.0,Fearless Tour,51.5074456,-0.1277653,,,,2009-11-23
+Manchester,England,Manchester Arena,Justin Bieber,0.0,Fearless Tour,53.4794892,-2.2451148,,,,2009-11-24
+Brisbane,Australia,Brisbane Entertainment Centre,Gloriana,956505.0,Fearless Tour,-27.4689682,153.0234991,11334.0,11334.0,0.0,2010-02-04
+Sydney,Australia,Acer Arena,Gloriana,2030640.0,Fearless Tour,-33.8698439,151.2082848,27030.0,27030.0,0.0,2010-02-06
+Sydney,Australia,Acer Arena,Gloriana,2030640.0,Fearless Tour,-33.8698439,151.2082848,27030.0,27030.0,0.0,2010-02-07
+Sydney,Australia,Acer Arena,Gloriana,2030640.0,Fearless Tour,-33.8698439,151.2082848,27030.0,27030.0,0.0,2010-02-06
+Sydney,Australia,Acer Arena,Gloriana,2030640.0,Fearless Tour,-33.8698439,151.2082848,27030.0,27030.0,0.0,2010-02-07
+Newcastle,Australia,Newcastle Entertainment Centre,Gloriana,555396.0,Fearless Tour,-32.9192953,151.7795348,7180.0,7180.0,0.0,2010-02-08
+Melbourne,Australia,Rod Laver Arena,Gloriana,1627510.0,Fearless Tour,-37.8142454,144.9631732,23493.0,23493.0,0.0,2010-02-10
+Melbourne,Australia,Rod Laver Arena,Gloriana,1627510.0,Fearless Tour,-37.8142454,144.9631732,23493.0,23493.0,0.0,2010-02-11
+Melbourne,Australia,Rod Laver Arena,Gloriana,1627510.0,Fearless Tour,-37.8142454,144.9631732,23493.0,23493.0,0.0,2010-02-10
+Melbourne,Australia,Rod Laver Arena,Gloriana,1627510.0,Fearless Tour,-37.8142454,144.9631732,23493.0,23493.0,0.0,2010-02-11
+Adelaide,Australia,Adelaide Entertainment Centre,Gloriana,585352.0,Fearless Tour,-34.9281805,138.5999312,9066.0,9066.0,0.0,2010-02-12
+Tokyo,Japan,Zepp Tokyo,,0.0,Fearless Tour,35.6821936,139.762221,,,,2010-02-17
+Tampa,United States,St. Pete Times Forum,Gloriana and Kellie Pickler,793049.0,Fearless Tour,27.9477595,-82.458444,13861.0,13861.0,0.0,2010-03-04
+Orlando,United States,Amway Center,Gloriana and Kellie Pickler,598581.0,Fearless Tour,28.5421109,-81.3790304,11101.0,11101.0,0.0,2010-03-05
+Sunrise,United States,BankAtlantic Center,Gloriana and Kellie Pickler,777442.0,Fearless Tour,26.1666888,-80.2787573,13453.0,13453.0,0.0,2010-03-07
+Austin,United States,Frank Erwin Center,Gloriana and Kellie Pickler,642705.0,Fearless Tour,30.2711286,-97.7436995,11928.0,11928.0,0.0,2010-03-10
+Dallas,United States,American Airlines Center,Gloriana and Kellie Pickler,742954.0,Fearless Tour,32.7762719,-96.7968559,14022.0,14022.0,0.0,2009-09-25
+Dallas,United States,American Airlines Center,Gloriana and Kellie Pickler,742954.0,Fearless Tour,32.7762719,-96.7968559,14022.0,14022.0,0.0,2010-03-11
+Corpus Christi,United States,American Bank Center Arena,Gloriana and Kellie Pickler,501169.0,Fearless Tour,27.7635302,-97.4033191,8423.0,8423.0,0.0,2010-03-12
+Philadelphia,United States,Wachovia Spectrum,Gloriana and Kellie Pickler,2002321.0,Fearless Tour,39.9527237,-75.1635262,30360.0,30360.0,0.0,2010-03-18
+Philadelphia,United States,Wachovia Spectrum,Gloriana and Kellie Pickler,2002321.0,Fearless Tour,39.9527237,-75.1635262,30360.0,30360.0,0.0,2010-03-19
+Philadelphia,United States,Wachovia Spectrum,Gloriana and Kellie Pickler,2002321.0,Fearless Tour,39.9527237,-75.1635262,30360.0,30360.0,0.0,2010-03-18
+Philadelphia,United States,Wachovia Spectrum,Gloriana and Kellie Pickler,2002321.0,Fearless Tour,39.9527237,-75.1635262,30360.0,30360.0,0.0,2010-03-19
+Charlottesville,United States,John Paul Jones Arena,Gloriana and Kellie Pickler,664305.0,Fearless Tour,38.029306,-78.4766781,11858.0,11858.0,0.0,2010-03-20
+Auburn Hills,United States,The Palace of Auburn Hills,Gloriana and Kellie Pickler,1711591.0,Fearless Tour,42.6875323,-83.2341028,29125.0,29125.0,0.0,2010-03-26
+Auburn Hills,United States,The Palace of Auburn Hills,Gloriana and Kellie Pickler,1711591.0,Fearless Tour,42.6875323,-83.2341028,29125.0,29125.0,0.0,2010-03-27
+Auburn Hills,United States,The Palace of Auburn Hills,Gloriana and Kellie Pickler,1711591.0,Fearless Tour,42.6875323,-83.2341028,29125.0,29125.0,0.0,2010-03-26
+Auburn Hills,United States,The Palace of Auburn Hills,Gloriana and Kellie Pickler,1711591.0,Fearless Tour,42.6875323,-83.2341028,29125.0,29125.0,0.0,2010-03-27
+Cincinnati,United States,U.S. Bank Arena,Gloriana and Kellie Pickler,645592.0,Fearless Tour,39.1014537,-84.5124602,11208.0,11208.0,0.0,2010-03-28
+Oklahoma City,United States,Ford Center,Gloriana and Kellie Pickler,675184.0,Fearless Tour,35.4729886,-97.5170536,11795.0,11795.0,0.0,2010-03-31
+Wichita,United States,Intrust Bank Arena,Gloriana and Kellie Pickler,610801.0,Fearless Tour,37.6922361,-97.3375448,11208.0,11208.0,0.0,2010-04-01
+Kansas City,United States,Sprint Center,Gloriana and Kellie Pickler,761110.0,Fearless Tour,39.100105,-94.5781416,13781.0,13781.0,0.0,2010-04-02
+Denver,United States,Pepsi Center,Gloriana and Kellie Pickler,1497135.0,Fearless Tour,39.7392364,-104.984862,25991.0,25991.0,0.0,2010-04-06
+Denver,United States,Pepsi Center,Gloriana and Kellie Pickler,1497135.0,Fearless Tour,39.7392364,-104.984862,25991.0,25991.0,0.0,2010-04-07
+Denver,United States,Pepsi Center,Gloriana and Kellie Pickler,1497135.0,Fearless Tour,39.7392364,-104.984862,25991.0,25991.0,0.0,2010-04-06
+Denver,United States,Pepsi Center,Gloriana and Kellie Pickler,1497135.0,Fearless Tour,39.7392364,-104.984862,25991.0,25991.0,0.0,2010-04-07
+Fresno,United States,Save Mart Center,Gloriana and Kellie Pickler,649488.0,Fearless Tour,36.7295295,-119.70886126075588,11706.0,11706.0,0.0,2010-04-10
+San Jose,United States,HP Pavilion,Gloriana and Kellie Pickler,716726.0,Fearless Tour,37.3361663,-121.890591,12744.0,12744.0,0.0,2010-04-11
+Los Angeles,United States,Staples Center,Gloriana and Kellie Pickler,1736197.0,Fearless Tour,34.0536909,-118.242766,27518.0,27518.0,0.0,2010-04-15
+Los Angeles,United States,Staples Center,Gloriana and Kellie Pickler,1736197.0,Fearless Tour,34.0536909,-118.242766,27518.0,27518.0,0.0,2010-04-16
+Los Angeles,United States,Staples Center,Gloriana and Kellie Pickler,1736197.0,Fearless Tour,34.0536909,-118.242766,27518.0,27518.0,0.0,2010-04-15
+Los Angeles,United States,Staples Center,Gloriana and Kellie Pickler,1736197.0,Fearless Tour,34.0536909,-118.242766,27518.0,27518.0,0.0,2010-04-16
+Lexington,United States,Rupp Arena,Gloriana and Kellie Pickler,1024223.0,Fearless Tour,38.0464066,-84.4970393,17966.0,17966.0,0.0,2010-04-29
+Columbia,United States,Colonial Life Arena,Gloriana and Kellie Pickler,755475.0,Fearless Tour,34.0003117,-81.0331309,13429.0,13429.0,0.0,2010-04-30
+Raleigh,United States,RBC Center,Gloriana and Kellie Pickler,752303.0,Fearless Tour,35.7803977,-78.6390989,13895.0,13895.0,0.0,2010-05-01
+Des Moines,United States,Wells Fargo Arena,Gloriana and Kellie Pickler,738280.0,Fearless Tour,41.5910323,-93.6046655,13264.0,13264.0,0.0,2010-05-06
+Saint Paul,United States,Xcel Energy Center,Gloriana and Kellie Pickler,846111.0,Fearless Tour,44.9497487,-93.0931028,14914.0,14914.0,0.0,2010-05-07
+Moline,United States,iWireless Center,Gloriana and Kellie Pickler,610668.0,Fearless Tour,41.5058344,-90.5136642,10641.0,10641.0,0.0,2010-05-08
+Newark,United States,Prudential Center,Gloriana and Kellie Pickler,1742669.0,Fearless Tour,40.735657,-74.1723667,26065.0,26065.0,0.0,2010-05-12
+Newark,United States,Prudential Center,Gloriana and Kellie Pickler,1742669.0,Fearless Tour,40.735657,-74.1723667,26065.0,26065.0,0.0,2010-05-13
+Newark,United States,Prudential Center,Gloriana and Kellie Pickler,1742669.0,Fearless Tour,40.735657,-74.1723667,26065.0,26065.0,0.0,2010-05-12
+Newark,United States,Prudential Center,Gloriana and Kellie Pickler,1742669.0,Fearless Tour,40.735657,-74.1723667,26065.0,26065.0,0.0,2010-05-13
+Uniondale,United States,Nassau Veterans Memorial Coliseum,Gloriana and Kellie Pickler,1713529.0,Fearless Tour,40.7095827,-73.592341,25831.0,25831.0,0.0,2010-05-14
+Uniondale,United States,Nassau Veterans Memorial Coliseum,Gloriana and Kellie Pickler,1713529.0,Fearless Tour,40.7095827,-73.592341,25831.0,25831.0,0.0,2010-05-15
+Uniondale,United States,Nassau Veterans Memorial Coliseum,Gloriana and Kellie Pickler,1713529.0,Fearless Tour,40.7095827,-73.592341,25831.0,25831.0,0.0,2010-05-14
+Uniondale,United States,Nassau Veterans Memorial Coliseum,Gloriana and Kellie Pickler,1713529.0,Fearless Tour,40.7095827,-73.592341,25831.0,25831.0,0.0,2010-05-15
+Ottawa,Canada,Scotiabank Place,Gloriana and Kellie Pickler,873206.0,Fearless Tour,45.4208777,-75.6901106,13376.0,13376.0,0.0,2010-05-20
+Toronto,Canada,Air Canada Centre,Gloriana and Kellie Pickler,2497690.0,Fearless Tour,43.6534817,-79.3839347,30458.0,30458.0,0.0,2010-05-21
+Toronto,Canada,Air Canada Centre,Gloriana and Kellie Pickler,2497690.0,Fearless Tour,43.6534817,-79.3839347,30458.0,30458.0,0.0,2010-05-22
+Toronto,Canada,Air Canada Centre,Gloriana and Kellie Pickler,2497690.0,Fearless Tour,43.6534817,-79.3839347,30458.0,30458.0,0.0,2010-05-21
+Toronto,Canada,Air Canada Centre,Gloriana and Kellie Pickler,2497690.0,Fearless Tour,43.6534817,-79.3839347,30458.0,30458.0,0.0,2010-05-22
+Houston,United States,Toyota Center,Gloriana and Kellie Pickler,1290926.0,Fearless Tour,29.7589382,-95.3676974,23493.0,23493.0,0.0,2010-05-25
+Houston,United States,Toyota Center,Gloriana and Kellie Pickler,1290926.0,Fearless Tour,29.7589382,-95.3676974,23493.0,23493.0,0.0,2010-05-26
+Houston,United States,Toyota Center,Gloriana and Kellie Pickler,1290926.0,Fearless Tour,29.7589382,-95.3676974,23493.0,23493.0,0.0,2010-05-25
+Houston,United States,Toyota Center,Gloriana and Kellie Pickler,1290926.0,Fearless Tour,29.7589382,-95.3676974,23493.0,23493.0,0.0,2010-05-26
+Baton Rouge,United States,Tiger Stadium,,0.0,Fearless Tour,30.4494155,-91.1869659,,,,2010-05-29
+Washington,United States,Verizon Center,Gloriana and Kellie Pickler,1824743.0,Fearless Tour,38.8950368,-77.0365427,27290.0,27290.0,0.0,2010-06-01
+Washington,United States,Verizon Center,Gloriana and Kellie Pickler,1824743.0,Fearless Tour,38.8950368,-77.0365427,27290.0,27290.0,0.0,2010-06-02
+Washington,United States,Verizon Center,Gloriana and Kellie Pickler,1824743.0,Fearless Tour,38.8950368,-77.0365427,27290.0,27290.0,0.0,2010-06-01
+Washington,United States,Verizon Center,Gloriana and Kellie Pickler,1824743.0,Fearless Tour,38.8950368,-77.0365427,27290.0,27290.0,0.0,2010-06-02
+Foxborough,United States,Gillette Stadium,Gloriana and Justin Bieber and Kellie Pickler,3726157.0,Fearless Tour,42.0653768,-71.2478308,56868.0,56868.0,0.0,2010-06-05
+Paradise Island,The Bahamas,Imperial Ballroom,Gloriana and Kellie Pickler,0.0,Fearless Tour,25.0782266,-77.3383438,,,,2010-06-19
+Cavendish,Canada,Cavendish Beach Festival Grounds,,0.0,Fearless Tour,46.4912529,-63.3785021,35000.0,35000.0,0.0,2010-07-10
+Singapore,Singapore,Singapore Indoor Stadium,Sezairi Sezali,916850.0,Speak Now World Tour,1.357107,103.8194992,8964.0,8964.0,0.0,2011-02-09
+Seoul,South Korea,Olympic Gymnastics Arena,,385374.0,Speak Now World Tour,37.5666791,126.9782914,4725.0,4725.0,0.0,2011-02-11
+Osaka,Japan,Osaka-Jo Hall,,758113.0,Speak Now World Tour,34.6198813,135.490357,6953.0,6953.0,0.0,2011-02-13
+Tokyo,Japan,Nippon Budokan,,1738227.0,Speak Now World Tour,35.6821936,139.762221,15955.0,15955.0,0.0,2011-02-16
+Tokyo,Japan,Nippon Budokan,,1738227.0,Speak Now World Tour,35.6821936,139.762221,15955.0,15955.0,0.0,2011-02-17
+Tokyo,Japan,Nippon Budokan,,1738227.0,Speak Now World Tour,35.6821936,139.762221,15955.0,15955.0,0.0,2011-02-16
+Tokyo,Japan,Nippon Budokan,,1738227.0,Speak Now World Tour,35.6821936,139.762221,15955.0,15955.0,0.0,2011-02-17
+Quezon City,Philippines,Smart Araneta Coliseum,Sam Concepcion,859037.0,Speak Now World Tour,14.6508,121.04821,12667.0,12667.0,0.0,2011-02-19
+Hong Kong,Hong Kong,AsiaWorld–Arena,Saito Johnny,1030633.0,Speak Now World Tour,22.2793278,114.1628131,12573.0,12573.0,0.0,2011-02-21
+Brussels,Belgium,Forest National,Tom Dice,219212.0,Speak Now World Tour,50.8550018,4.3512333761166175,4622.0,4622.0,0.0,2011-03-06
+Rotterdam,Netherlands,Rotterdam Ahoy,Tom Dice,248314.0,Speak Now World Tour,51.9244424,4.47775,4799.0,4799.0,0.0,2011-03-07
+Oslo,Norway,Oslo Spektrum,,815246.0,Speak Now World Tour,59.9133301,10.7389701,8650.0,8650.0,0.0,2011-03-09
+Oberhausen,Germany,König Pilsener Arena,Martin & James,370028.0,Speak Now World Tour,51.4696137,6.8514435,6082.0,6082.0,0.0,2011-03-12
+Milan,Italy,Mediolanum Forum,Emma Marrone,153303.0,Speak Now World Tour,45.4641943,9.1896346,3421.0,5585.0,2164.0,2011-03-15
+Paris,France,Zénith Paris,,201781.0,Speak Now World Tour,48.8534951,2.3483915,3598.0,8500.0,4902.0,2011-03-17
+Madrid,Spain,Palacio de los Deportes,The Bright,251864.0,Speak Now World Tour,40.4167047,-3.7035825,3962.0,3962.0,0.0,2011-03-19
+Birmingham,England,LG Arena,Martin & James,508854.0,Speak Now World Tour,52.4796992,-1.9026911,9339.0,9339.0,0.0,2011-03-22
+Belfast,Northern Ireland,Odyssey Arena,Ryan Sheridan,379001.0,Speak Now World Tour,54.596391,-5.9301829,8058.0,8058.0,0.0,2011-03-25
+Dublin,Ireland,The O2,Ryan Sheridan,419806.0,Speak Now World Tour,53.3493795,-6.2605593,8681.0,8681.0,0.0,2011-03-27
+Manchester,England,Manchester Arena,Martin & James,580558.0,Speak Now World Tour,53.4794892,-2.2451148,10488.0,11622.0,1134.0,2011-03-29
+London,England,The O2 Arena,Martin & James,891152.0,Speak Now World Tour,51.5074456,-0.1277653,15265.0,15681.0,416.0,2011-03-30
+Omaha,United States,Qwest Center Omaha,Needtobreathe,1717104.0,Speak Now World Tour,41.2587459,-95.9383758,26992.0,26992.0,0.0,2011-05-27
+Omaha,United States,Qwest Center Omaha,Needtobreathe,1717104.0,Speak Now World Tour,41.2587459,-95.9383758,26992.0,26992.0,0.0,2011-05-28
+Omaha,United States,Qwest Center Omaha,Needtobreathe,1717104.0,Speak Now World Tour,41.2587459,-95.9383758,26992.0,26992.0,0.0,2011-05-27
+Omaha,United States,Qwest Center Omaha,Needtobreathe,1717104.0,Speak Now World Tour,41.2587459,-95.9383758,26992.0,26992.0,0.0,2011-05-28
+Des Moines,United States,Wells Fargo Arena,Needtobreathe,862771.0,Speak Now World Tour,41.5910323,-93.6046655,13149.0,13149.0,0.0,2011-05-29
+Sunrise,United States,BankAtlantic Center,Needtobreathe,1582951.0,Speak Now World Tour,26.1666888,-80.2787573,24077.0,24077.0,0.0,2011-06-02
+Sunrise,United States,BankAtlantic Center,Needtobreathe,1582951.0,Speak Now World Tour,26.1666888,-80.2787573,24077.0,24077.0,0.0,2011-06-03
+Sunrise,United States,BankAtlantic Center,Needtobreathe,1582951.0,Speak Now World Tour,26.1666888,-80.2787573,24077.0,24077.0,0.0,2011-06-02
+Sunrise,United States,BankAtlantic Center,Needtobreathe,1582951.0,Speak Now World Tour,26.1666888,-80.2787573,24077.0,24077.0,0.0,2011-06-03
+Orlando,United States,Amway Center,Needtobreathe,791980.0,Speak Now World Tour,28.5421109,-81.3790304,12262.0,12262.0,0.0,2011-06-04
+Columbus,United States,Nationwide Arena,Needtobreathe,955259.0,Speak Now World Tour,39.9622601,-83.0007065,14817.0,14817.0,0.0,2011-06-07
+Milwaukee,United States,Bradley Center,Needtobreathe,897042.0,Speak Now World Tour,43.0349931,-87.922497,13748.0,13748.0,0.0,2011-06-08
+Detroit,United States,Ford Field,Needtobreathe,3453549.0,Speak Now World Tour,42.3315509,-83.0466403,47992.0,47992.0,0.0,2011-06-11
+Saint Paul,United States,Xcel Energy Center,Needtobreathe,1913737.0,Speak Now World Tour,44.9497487,-93.0931028,28977.0,28977.0,0.0,2011-06-14
+Saint Paul,United States,Xcel Energy Center,Needtobreathe,1913737.0,Speak Now World Tour,44.9497487,-93.0931028,28977.0,28977.0,0.0,2011-06-15
+Saint Paul,United States,Xcel Energy Center,Needtobreathe,1913737.0,Speak Now World Tour,44.9497487,-93.0931028,28977.0,28977.0,0.0,2011-06-14
+Saint Paul,United States,Xcel Energy Center,Needtobreathe,1913737.0,Speak Now World Tour,44.9497487,-93.0931028,28977.0,28977.0,0.0,2011-06-15
+Pittsburgh,United States,Heinz Field,Needtobreathe,4009118.0,Speak Now World Tour,40.4416941,-79.9900861,52009.0,52009.0,0.0,2011-06-18
+Buffalo,United States,First Niagara Center,Needtobreathe,966749.0,Speak Now World Tour,37.7097669,-95.6974822,14487.0,14487.0,0.0,2011-06-21
+Hartford,United States,XL Center,Needtobreathe,810165.0,Speak Now World Tour,41.764582,-72.6908547,12436.0,12436.0,0.0,2011-06-22
+Foxborough,United States,Gillette Stadium,Needtobreathe,8026350.0,Speak Now World Tour,42.0653768,-71.2478308,110800.0,110800.0,0.0,2011-06-25
+Foxborough,United States,Gillette Stadium,Needtobreathe,8026350.0,Speak Now World Tour,42.0653768,-71.2478308,110800.0,110800.0,0.0,2011-06-26
+Foxborough,United States,Gillette Stadium,Needtobreathe,8026350.0,Speak Now World Tour,42.0653768,-71.2478308,110800.0,110800.0,0.0,2011-06-25
+Foxborough,United States,Gillette Stadium,Needtobreathe,8026350.0,Speak Now World Tour,42.0653768,-71.2478308,110800.0,110800.0,0.0,2011-06-26
+Greensboro,United States,Greensboro Coliseum Complex,Needtobreathe,990701.0,Speak Now World Tour,36.0726355,-79.7919754,14789.0,14789.0,0.0,2011-06-30
+Knoxville,United States,Thompson–Boling Arena,Needtobreathe,903875.0,Speak Now World Tour,35.9603948,-83.9210261,13754.0,13754.0,0.0,2011-07-01
+Montreal,Canada,Bell Centre,Needtobreathe,1254230.0,Speak Now World Tour,45.5031824,-73.5698065,13439.0,13439.0,0.0,2011-07-14
+Toronto,Canada,Air Canada Centre,Needtobreathe,3036000.0,Speak Now World Tour,43.6534817,-79.3839347,30144.0,30144.0,0.0,2011-07-15
+Toronto,Canada,Air Canada Centre,Needtobreathe,3036000.0,Speak Now World Tour,43.6534817,-79.3839347,30144.0,30144.0,0.0,2011-07-16
+Toronto,Canada,Air Canada Centre,Needtobreathe,3036000.0,Speak Now World Tour,43.6534817,-79.3839347,30144.0,30144.0,0.0,2011-07-15
+Toronto,Canada,Air Canada Centre,Needtobreathe,3036000.0,Speak Now World Tour,43.6534817,-79.3839347,30144.0,30144.0,0.0,2011-07-16
+Newark,United States,Prudential Center,Needtobreathe,3875463.0,Speak Now World Tour,40.735657,-74.1723667,51487.0,51487.0,0.0,2011-07-19
+Newark,United States,Prudential Center,Needtobreathe,3875463.0,Speak Now World Tour,40.735657,-74.1723667,51487.0,51487.0,0.0,2011-07-20
+Newark,United States,Prudential Center,Needtobreathe,3875463.0,Speak Now World Tour,40.735657,-74.1723667,51487.0,51487.0,0.0,2011-07-23
+Newark,United States,Prudential Center,Needtobreathe,3875463.0,Speak Now World Tour,40.735657,-74.1723667,51487.0,51487.0,0.0,2011-07-24
+Newark,United States,Prudential Center,Needtobreathe,3875463.0,Speak Now World Tour,40.735657,-74.1723667,51487.0,51487.0,0.0,2011-07-19
+Newark,United States,Prudential Center,Needtobreathe,3875463.0,Speak Now World Tour,40.735657,-74.1723667,51487.0,51487.0,0.0,2011-07-20
+Newark,United States,Prudential Center,Needtobreathe,3875463.0,Speak Now World Tour,40.735657,-74.1723667,51487.0,51487.0,0.0,2011-07-23
+Newark,United States,Prudential Center,Needtobreathe,3875463.0,Speak Now World Tour,40.735657,-74.1723667,51487.0,51487.0,0.0,2011-07-24
+Newark,United States,Prudential Center,Needtobreathe,3875463.0,Speak Now World Tour,40.735657,-74.1723667,51487.0,51487.0,0.0,2011-07-19
+Newark,United States,Prudential Center,Needtobreathe,3875463.0,Speak Now World Tour,40.735657,-74.1723667,51487.0,51487.0,0.0,2011-07-20
+Newark,United States,Prudential Center,Needtobreathe,3875463.0,Speak Now World Tour,40.735657,-74.1723667,51487.0,51487.0,0.0,2011-07-23
+Newark,United States,Prudential Center,Needtobreathe,3875463.0,Speak Now World Tour,40.735657,-74.1723667,51487.0,51487.0,0.0,2011-07-24
+Newark,United States,Prudential Center,Needtobreathe,3875463.0,Speak Now World Tour,40.735657,-74.1723667,51487.0,51487.0,0.0,2011-07-19
+Newark,United States,Prudential Center,Needtobreathe,3875463.0,Speak Now World Tour,40.735657,-74.1723667,51487.0,51487.0,0.0,2011-07-20
+Newark,United States,Prudential Center,Needtobreathe,3875463.0,Speak Now World Tour,40.735657,-74.1723667,51487.0,51487.0,0.0,2011-07-23
+Newark,United States,Prudential Center,Needtobreathe,3875463.0,Speak Now World Tour,40.735657,-74.1723667,51487.0,51487.0,0.0,2011-07-24
+Grand Rapids,United States,Van Andel Arena,Needtobreathe,724854.0,Speak Now World Tour,42.9632425,-85.6678639,11012.0,11012.0,0.0,2011-07-28
+Indianapolis,United States,Conseco Fieldhouse,Needtobreathe,877175.0,Speak Now World Tour,39.7683331,-86.1583502,13329.0,13329.0,0.0,2011-07-29
+Cleveland,United States,Quicken Loans Arena,Needtobreathe,976954.0,Speak Now World Tour,41.4996574,-81.6936772,14873.0,14873.0,0.0,2011-07-30
+Washington,United States,Verizon Center,Needtobreathe,2068789.0,Speak Now World Tour,38.8950368,-77.0365427,29303.0,29303.0,0.0,2011-08-02
+Washington,United States,Verizon Center,Needtobreathe,2068789.0,Speak Now World Tour,38.8950368,-77.0365427,29303.0,29303.0,0.0,2011-08-03
+Washington,United States,Verizon Center,Needtobreathe,2068789.0,Speak Now World Tour,38.8950368,-77.0365427,29303.0,29303.0,0.0,2011-08-02
+Washington,United States,Verizon Center,Needtobreathe,2068789.0,Speak Now World Tour,38.8950368,-77.0365427,29303.0,29303.0,0.0,2011-08-03
+Philadelphia,United States,Lincoln Financial Field,Needtobreathe,4268678.0,Speak Now World Tour,39.9527237,-75.1635262,51395.0,51395.0,0.0,2011-08-06
+Chicago,United States,Allstate Arena,Needtobreathe,1909603.0,Speak Now World Tour,41.9941334,-87.8756737,26112.0,26112.0,0.0,2011-08-09
+Chicago,United States,Allstate Arena,Needtobreathe,1909603.0,Speak Now World Tour,41.9941334,-87.8756737,26112.0,26112.0,0.0,2011-08-10
+Chicago,United States,Allstate Arena,Needtobreathe,1909603.0,Speak Now World Tour,41.9941334,-87.8756737,26112.0,26112.0,0.0,2011-08-09
+Chicago,United States,Allstate Arena,Needtobreathe,1909603.0,Speak Now World Tour,41.9941334,-87.8756737,26112.0,26112.0,0.0,2011-08-10
+St. Louis,United States,Scottrade Center,Needtobreathe,1850159.0,Speak Now World Tour,38.6280278,-90.1910154,27965.0,27965.0,0.0,2011-08-13
+St. Louis,United States,Scottrade Center,Needtobreathe,1850159.0,Speak Now World Tour,38.6280278,-90.1910154,27965.0,27965.0,0.0,2011-08-14
+St. Louis,United States,Scottrade Center,Needtobreathe,1850159.0,Speak Now World Tour,38.6280278,-90.1910154,27965.0,27965.0,0.0,2011-08-13
+St. Louis,United States,Scottrade Center,Needtobreathe,1850159.0,Speak Now World Tour,38.6280278,-90.1910154,27965.0,27965.0,0.0,2011-08-14
+Edmonton,Canada,Rexall Place,Needtobreathe,2136270.0,Speak Now World Tour,53.5462055,-113.491241,25336.0,25336.0,0.0,2011-08-18
+Edmonton,Canada,Rexall Place,Needtobreathe,2136270.0,Speak Now World Tour,53.5462055,-113.491241,25336.0,25336.0,0.0,2011-08-19
+Edmonton,Canada,Rexall Place,Needtobreathe,2136270.0,Speak Now World Tour,53.5462055,-113.491241,25336.0,25336.0,0.0,2011-08-18
+Edmonton,Canada,Rexall Place,Needtobreathe,2136270.0,Speak Now World Tour,53.5462055,-113.491241,25336.0,25336.0,0.0,2011-08-19
+Los Angeles,United States,Staples Center,Needtobreathe,3927154.0,Speak Now World Tour,34.0536909,-118.242766,54900.0,54900.0,0.0,2011-08-23
+Los Angeles,United States,Staples Center,Needtobreathe,3927154.0,Speak Now World Tour,34.0536909,-118.242766,54900.0,54900.0,0.0,2011-08-24
+Los Angeles,United States,Staples Center,Needtobreathe,3927154.0,Speak Now World Tour,34.0536909,-118.242766,54900.0,54900.0,0.0,2011-08-27
+Los Angeles,United States,Staples Center,Needtobreathe,3927154.0,Speak Now World Tour,34.0536909,-118.242766,54900.0,54900.0,0.0,2011-08-28
+Los Angeles,United States,Staples Center,Needtobreathe,3927154.0,Speak Now World Tour,34.0536909,-118.242766,54900.0,54900.0,0.0,2011-08-23
+Los Angeles,United States,Staples Center,Needtobreathe,3927154.0,Speak Now World Tour,34.0536909,-118.242766,54900.0,54900.0,0.0,2011-08-24
+Los Angeles,United States,Staples Center,Needtobreathe,3927154.0,Speak Now World Tour,34.0536909,-118.242766,54900.0,54900.0,0.0,2011-08-27
+Los Angeles,United States,Staples Center,Needtobreathe,3927154.0,Speak Now World Tour,34.0536909,-118.242766,54900.0,54900.0,0.0,2011-08-28
+Los Angeles,United States,Staples Center,Needtobreathe,3927154.0,Speak Now World Tour,34.0536909,-118.242766,54900.0,54900.0,0.0,2011-08-23
+Los Angeles,United States,Staples Center,Needtobreathe,3927154.0,Speak Now World Tour,34.0536909,-118.242766,54900.0,54900.0,0.0,2011-08-24
+Los Angeles,United States,Staples Center,Needtobreathe,3927154.0,Speak Now World Tour,34.0536909,-118.242766,54900.0,54900.0,0.0,2011-08-27
+Los Angeles,United States,Staples Center,Needtobreathe,3927154.0,Speak Now World Tour,34.0536909,-118.242766,54900.0,54900.0,0.0,2011-08-28
+Los Angeles,United States,Staples Center,Needtobreathe,3927154.0,Speak Now World Tour,34.0536909,-118.242766,54900.0,54900.0,0.0,2011-08-23
+Los Angeles,United States,Staples Center,Needtobreathe,3927154.0,Speak Now World Tour,34.0536909,-118.242766,54900.0,54900.0,0.0,2011-08-24
+Los Angeles,United States,Staples Center,Needtobreathe,3927154.0,Speak Now World Tour,34.0536909,-118.242766,54900.0,54900.0,0.0,2011-08-27
+Los Angeles,United States,Staples Center,Needtobreathe,3927154.0,Speak Now World Tour,34.0536909,-118.242766,54900.0,54900.0,0.0,2011-08-28
+San Jose,United States,HP Pavilion,Needtobreathe,1825448.0,Speak Now World Tour,37.3361663,-121.890591,24827.0,24827.0,0.0,2011-09-01
+San Jose,United States,HP Pavilion,Needtobreathe,1825448.0,Speak Now World Tour,37.3361663,-121.890591,24827.0,24827.0,0.0,2011-09-02
+San Jose,United States,HP Pavilion,Needtobreathe,1825448.0,Speak Now World Tour,37.3361663,-121.890591,24827.0,24827.0,0.0,2011-09-01
+San Jose,United States,HP Pavilion,Needtobreathe,1825448.0,Speak Now World Tour,37.3361663,-121.890591,24827.0,24827.0,0.0,2011-09-02
+Sacramento,United States,Power Balance Pavilion,Needtobreathe,934326.0,Speak Now World Tour,38.5810606,-121.493895,12432.0,12432.0,0.0,2011-09-03
+Portland,United States,Moda Center,Needtobreathe,903445.0,Speak Now World Tour,45.5202471,-122.674194,13610.0,13610.0,0.0,2011-09-06
+Tacoma,United States,Tacoma Dome,Needtobreathe,1289430.0,Speak Now World Tour,47.2455013,-122.438329,19904.0,19904.0,0.0,2011-09-07
+Vancouver,Canada,Rogers Arena,Needtobreathe,2190680.0,Speak Now World Tour,49.2608724,-123.113952,26030.0,26030.0,0.0,2011-09-10
+Vancouver,Canada,Rogers Arena,Needtobreathe,2190680.0,Speak Now World Tour,49.2608724,-123.113952,26030.0,26030.0,0.0,2011-09-11
+Vancouver,Canada,Rogers Arena,Needtobreathe,2190680.0,Speak Now World Tour,49.2608724,-123.113952,26030.0,26030.0,0.0,2011-09-10
+Vancouver,Canada,Rogers Arena,Needtobreathe,2190680.0,Speak Now World Tour,49.2608724,-123.113952,26030.0,26030.0,0.0,2011-09-11
+Nashville,United States,Bridgestone Arena,Needtobreathe,1841134.0,Speak Now World Tour,36.1622767,-86.7742984,28178.0,28178.0,0.0,2011-09-16
+Nashville,United States,Bridgestone Arena,Needtobreathe,1841134.0,Speak Now World Tour,36.1622767,-86.7742984,28178.0,28178.0,0.0,2011-09-17
+Nashville,United States,Bridgestone Arena,Needtobreathe,1841134.0,Speak Now World Tour,36.1622767,-86.7742984,28178.0,28178.0,0.0,2011-09-16
+Nashville,United States,Bridgestone Arena,Needtobreathe,1841134.0,Speak Now World Tour,36.1622767,-86.7742984,28178.0,28178.0,0.0,2011-09-17
+Bossier City,United States,CenturyLink Center,Needtobreathe,728546.0,Speak Now World Tour,32.515887,-93.7336536,11510.0,11510.0,0.0,2011-09-20
+Tulsa,United States,BOK Center,Needtobreathe,907573.0,Speak Now World Tour,36.1563122,-95.9927516,12546.0,12546.0,0.0,2011-09-21
+Kansas City,United States,Arrowhead Stadium,Needtobreathe,3148046.0,Speak Now World Tour,39.100105,-94.5781416,48562.0,48562.0,0.0,2011-09-24
+Denver,United States,Pepsi Center,Needtobreathe,834916.0,Speak Now World Tour,39.7392364,-104.984862,12908.0,12908.0,0.0,2011-09-27
+Salt Lake City,United States,EnergySolutions Arena,Needtobreathe,896946.0,Speak Now World Tour,40.7596198,-111.886797,13720.0,13720.0,0.0,2011-09-28
+Atlanta,United States,Philips Arena,Needtobreathe,1726661.0,Speak Now World Tour,33.7489924,-84.3902644,26244.0,26244.0,0.0,2011-10-01
+Atlanta,United States,Philips Arena,Needtobreathe,1726661.0,Speak Now World Tour,33.7489924,-84.3902644,26244.0,26244.0,0.0,2011-10-02
+Atlanta,United States,Philips Arena,Needtobreathe,1726661.0,Speak Now World Tour,33.7489924,-84.3902644,26244.0,26244.0,0.0,2011-10-01
+Atlanta,United States,Philips Arena,Needtobreathe,1726661.0,Speak Now World Tour,33.7489924,-84.3902644,26244.0,26244.0,0.0,2011-10-02
+North Little Rock,United States,Verizon Arena,Needtobreathe,856123.0,Speak Now World Tour,34.769536,-92.2670941,13566.0,13566.0,0.0,2011-10-04
+New Orleans,United States,New Orleans Arena,Needtobreathe,830289.0,Speak Now World Tour,29.9759983,-90.0782127,12943.0,12943.0,0.0,2011-10-05
+Arlington,United States,Cowboys Stadium,Needtobreathe,4337062.0,Speak Now World Tour,32.7355816,-97.1071186,55451.0,55451.0,0.0,2011-10-08
+Louisville,United States,KFC Yum! Center,Needtobreathe,1003828.0,Speak Now World Tour,38.2542376,-85.759407,14848.0,14848.0,0.0,2011-10-11
+Lubbock,United States,United Spirit Arena,Needtobreathe,710426.0,Speak Now World Tour,33.5855677,-101.8470215,10419.0,10419.0,0.0,2011-10-14
+Oklahoma City,United States,Chesapeake Energy Arena,Needtobreathe,758364.0,Speak Now World Tour,35.4729886,-97.5170536,11592.0,11592.0,0.0,2011-10-15
+San Diego,United States,Valley View Casino Center,Needtobreathe,792634.0,Speak Now World Tour,32.7174202,-117.1627728,10834.0,10834.0,0.0,2011-10-20
+Glendale,United States,Jobing.com Arena,Needtobreathe,1826025.0,Speak Now World Tour,34.1469416,-118.2478471,27029.0,27029.0,0.0,2011-10-21
+Glendale,United States,Jobing.com Arena,Needtobreathe,1826025.0,Speak Now World Tour,34.1469416,-118.2478471,27029.0,27029.0,0.0,2011-10-22
+Glendale,United States,Jobing.com Arena,Needtobreathe,1826025.0,Speak Now World Tour,34.1469416,-118.2478471,27029.0,27029.0,0.0,2011-10-21
+Glendale,United States,Jobing.com Arena,Needtobreathe,1826025.0,Speak Now World Tour,34.1469416,-118.2478471,27029.0,27029.0,0.0,2011-10-22
+San Antonio,United States,AT&T Center,Needtobreathe,901535.0,Speak Now World Tour,29.4246002,-98.4951405,13851.0,13851.0,0.0,2011-10-25
+Austin,United States,Frank Erwin Center,Needtobreathe,752078.0,Speak Now World Tour,30.2711286,-97.7436995,11999.0,11999.0,0.0,2011-10-26
+Lexington,United States,Rupp Arena,Needtobreathe,1041935.0,Speak Now World Tour,38.0464066,-84.4970393,16237.0,16237.0,0.0,2011-10-29
+Memphis,United States,FedExForum,Needtobreathe,820036.0,Speak Now World Tour,35.1460249,-90.0517638,12604.0,12604.0,0.0,2011-10-30
+Houston,United States,Minute Maid Park,Needtobreathe,3435756.0,Speak Now World Tour,29.7589382,-95.3676974,42095.0,42095.0,0.0,2011-11-05
+Jacksonville,United States,Jacksonville Veterans Memorial Arena,Needtobreathe,749099.0,Speak Now World Tour,30.3321838,-81.655651,11785.0,11785.0,0.0,2011-11-11
+Tampa,United States,St. Pete Times Forum,Needtobreathe,914300.0,Speak Now World Tour,27.9477595,-82.458444,13695.0,13695.0,0.0,2011-11-12
+Miami,United States,American Airlines Arena,Needtobreathe,786904.0,Speak Now World Tour,25.7741728,-80.19362,12153.0,12153.0,0.0,2011-11-13
+Charlotte,United States,Time Warner Cable Arena,Needtobreathe,920903.0,Speak Now World Tour,35.2272086,-80.8430827,14272.0,14272.0,0.0,2011-11-16
+Raleigh,United States,RBC Center,Needtobreathe,866056.0,Speak Now World Tour,35.7803977,-78.6390989,13567.0,13567.0,0.0,2011-11-17
+Columbia,United States,Colonial Life Arena,Needtobreathe,828231.0,Speak Now World Tour,34.0003117,-81.0331309,12807.0,12807.0,0.0,2011-11-18
+New York City,United States,Madison Square Garden,Needtobreathe,1988411.0,Speak Now World Tour,40.7127281,-74.0060152,26652.0,26652.0,0.0,2011-11-21
+New York City,United States,Madison Square Garden,Needtobreathe,1988411.0,Speak Now World Tour,40.7127281,-74.0060152,26652.0,26652.0,0.0,2011-11-22
+New York City,United States,Madison Square Garden,Needtobreathe,1988411.0,Speak Now World Tour,40.7127281,-74.0060152,26652.0,26652.0,0.0,2011-11-21
+New York City,United States,Madison Square Garden,Needtobreathe,1988411.0,Speak Now World Tour,40.7127281,-74.0060152,26652.0,26652.0,0.0,2011-11-22
+Perth,Australia,Burswood Dome,Hot Chelle Rae,1878530.0,Speak Now World Tour,-31.9558933,115.8605855,15142.0,15142.0,0.0,2012-03-02
+Adelaide,Australia,Adelaide Entertainment Centre,Hot Chelle Rae,1075370.0,Speak Now World Tour,-34.9281805,138.5999312,8589.0,8589.0,0.0,2012-03-04
+Brisbane,Australia,Brisbane Entertainment Centre,Hot Chelle Rae,2416030.0,Speak Now World Tour,-27.4689682,153.0234991,19870.0,19870.0,0.0,2012-03-06
+Brisbane,Australia,Brisbane Entertainment Centre,Hot Chelle Rae,2416030.0,Speak Now World Tour,-27.4689682,153.0234991,19870.0,19870.0,0.0,2012-03-07
+Brisbane,Australia,Brisbane Entertainment Centre,Hot Chelle Rae,2416030.0,Speak Now World Tour,-27.4689682,153.0234991,19870.0,19870.0,0.0,2012-03-06
+Brisbane,Australia,Brisbane Entertainment Centre,Hot Chelle Rae,2416030.0,Speak Now World Tour,-27.4689682,153.0234991,19870.0,19870.0,0.0,2012-03-07
+Sydney,Australia,Allphones Arena,Hot Chelle Rae,3420360.0,Speak Now World Tour,-33.8698439,151.2082848,27900.0,27900.0,0.0,2012-03-09
+Sydney,Australia,Allphones Arena,Hot Chelle Rae,3420360.0,Speak Now World Tour,-33.8698439,151.2082848,27900.0,27900.0,0.0,2012-03-10
+Sydney,Australia,Allphones Arena,Hot Chelle Rae,3420360.0,Speak Now World Tour,-33.8698439,151.2082848,27900.0,27900.0,0.0,2012-03-09
+Sydney,Australia,Allphones Arena,Hot Chelle Rae,3420360.0,Speak Now World Tour,-33.8698439,151.2082848,27900.0,27900.0,0.0,2012-03-10
+Melbourne,Australia,Rod Laver Arena,Hot Chelle Rae,4151650.0,Speak Now World Tour,-37.8142454,144.9631732,33793.0,33793.0,0.0,2012-03-12
+Melbourne,Australia,Rod Laver Arena,Hot Chelle Rae,4151650.0,Speak Now World Tour,-37.8142454,144.9631732,33793.0,33793.0,0.0,2012-03-13
+Melbourne,Australia,Rod Laver Arena,Hot Chelle Rae,4151650.0,Speak Now World Tour,-37.8142454,144.9631732,33793.0,33793.0,0.0,2012-03-14
+Melbourne,Australia,Rod Laver Arena,Hot Chelle Rae,4151650.0,Speak Now World Tour,-37.8142454,144.9631732,33793.0,33793.0,0.0,2012-03-12
+Melbourne,Australia,Rod Laver Arena,Hot Chelle Rae,4151650.0,Speak Now World Tour,-37.8142454,144.9631732,33793.0,33793.0,0.0,2012-03-13
+Melbourne,Australia,Rod Laver Arena,Hot Chelle Rae,4151650.0,Speak Now World Tour,-37.8142454,144.9631732,33793.0,33793.0,0.0,2012-03-14
+Melbourne,Australia,Rod Laver Arena,Hot Chelle Rae,4151650.0,Speak Now World Tour,-37.8142454,144.9631732,33793.0,33793.0,0.0,2012-03-12
+Melbourne,Australia,Rod Laver Arena,Hot Chelle Rae,4151650.0,Speak Now World Tour,-37.8142454,144.9631732,33793.0,33793.0,0.0,2012-03-13
+Melbourne,Australia,Rod Laver Arena,Hot Chelle Rae,4151650.0,Speak Now World Tour,-37.8142454,144.9631732,33793.0,33793.0,0.0,2012-03-14
+Auckland,New Zealand,Vector Arena,Hot Chelle Rae,2888560.0,Speak Now World Tour,-36.852095,174.7631803,32585.0,32585.0,0.0,2012-03-16
+Auckland,New Zealand,Vector Arena,Hot Chelle Rae,2888560.0,Speak Now World Tour,-36.852095,174.7631803,32585.0,32585.0,0.0,2012-03-17
+Auckland,New Zealand,Vector Arena,Hot Chelle Rae,2888560.0,Speak Now World Tour,-36.852095,174.7631803,32585.0,32585.0,0.0,2012-03-18
+Auckland,New Zealand,Vector Arena,Hot Chelle Rae,2888560.0,Speak Now World Tour,-36.852095,174.7631803,32585.0,32585.0,0.0,2012-03-16
+Auckland,New Zealand,Vector Arena,Hot Chelle Rae,2888560.0,Speak Now World Tour,-36.852095,174.7631803,32585.0,32585.0,0.0,2012-03-17
+Auckland,New Zealand,Vector Arena,Hot Chelle Rae,2888560.0,Speak Now World Tour,-36.852095,174.7631803,32585.0,32585.0,0.0,2012-03-18
+Auckland,New Zealand,Vector Arena,Hot Chelle Rae,2888560.0,Speak Now World Tour,-36.852095,174.7631803,32585.0,32585.0,0.0,2012-03-16
+Auckland,New Zealand,Vector Arena,Hot Chelle Rae,2888560.0,Speak Now World Tour,-36.852095,174.7631803,32585.0,32585.0,0.0,2012-03-17
+Auckland,New Zealand,Vector Arena,Hot Chelle Rae,2888560.0,Speak Now World Tour,-36.852095,174.7631803,32585.0,32585.0,0.0,2012-03-18
+Omaha,United States,CenturyLink Center,Ed Sheeran and Brett Eldredge,2243164.0,The Red Tour,41.2587459,-95.9383758,27877.0,27877.0,0.0,2013-03-13
+Omaha,United States,CenturyLink Center,Ed Sheeran and Brett Eldredge,2243164.0,The Red Tour,41.2587459,-95.9383758,27877.0,27877.0,0.0,2013-03-14
+Omaha,United States,CenturyLink Center,Ed Sheeran and Brett Eldredge,2243164.0,The Red Tour,41.2587459,-95.9383758,27877.0,27877.0,0.0,2013-03-13
+Omaha,United States,CenturyLink Center,Ed Sheeran and Brett Eldredge,2243164.0,The Red Tour,41.2587459,-95.9383758,27877.0,27877.0,0.0,2013-03-14
+St. Louis,United States,Scottrade Center,Ed Sheeran and Brett Eldredge,2346203.0,The Red Tour,38.6280278,-90.1910154,28582.0,28582.0,0.0,2013-03-18
+St. Louis,United States,Scottrade Center,Ed Sheeran and Brett Eldredge,2346203.0,The Red Tour,38.6280278,-90.1910154,28582.0,28582.0,0.0,2013-03-19
+St. Louis,United States,Scottrade Center,Ed Sheeran and Brett Eldredge,2346203.0,The Red Tour,38.6280278,-90.1910154,28582.0,28582.0,0.0,2013-03-18
+St. Louis,United States,Scottrade Center,Ed Sheeran and Brett Eldredge,2346203.0,The Red Tour,38.6280278,-90.1910154,28582.0,28582.0,0.0,2013-03-19
+Charlotte,United States,Time Warner Cable Arena,Ed Sheeran and Brett Eldredge,1162733.0,The Red Tour,35.2272086,-80.8430827,14686.0,14686.0,0.0,2013-03-22
+Columbia,United States,Colonial Life Arena,Ed Sheeran and Brett Eldredge,996114.0,The Red Tour,34.0003117,-81.0331309,12490.0,12490.0,0.0,2013-03-23
+Newark,United States,Prudential Center,Ed Sheeran and Florida Georgia Line,3565317.0,The Red Tour,40.735657,-74.1723667,38065.0,38065.0,0.0,2013-03-27
+Newark,United States,Prudential Center,Ed Sheeran and Florida Georgia Line,3565317.0,The Red Tour,40.735657,-74.1723667,38065.0,38065.0,0.0,2013-03-28
+Newark,United States,Prudential Center,Ed Sheeran and Florida Georgia Line,3565317.0,The Red Tour,40.735657,-74.1723667,38065.0,38065.0,0.0,2013-03-29
+Newark,United States,Prudential Center,Ed Sheeran and Florida Georgia Line,3565317.0,The Red Tour,40.735657,-74.1723667,38065.0,38065.0,0.0,2013-03-27
+Newark,United States,Prudential Center,Ed Sheeran and Florida Georgia Line,3565317.0,The Red Tour,40.735657,-74.1723667,38065.0,38065.0,0.0,2013-03-28
+Newark,United States,Prudential Center,Ed Sheeran and Florida Georgia Line,3565317.0,The Red Tour,40.735657,-74.1723667,38065.0,38065.0,0.0,2013-03-29
+Newark,United States,Prudential Center,Ed Sheeran and Florida Georgia Line,3565317.0,The Red Tour,40.735657,-74.1723667,38065.0,38065.0,0.0,2013-03-27
+Newark,United States,Prudential Center,Ed Sheeran and Florida Georgia Line,3565317.0,The Red Tour,40.735657,-74.1723667,38065.0,38065.0,0.0,2013-03-28
+Newark,United States,Prudential Center,Ed Sheeran and Florida Georgia Line,3565317.0,The Red Tour,40.735657,-74.1723667,38065.0,38065.0,0.0,2013-03-29
+Miami,United States,American Airlines Arena,Ed Sheeran and Brett Eldredge,1010175.0,The Red Tour,25.7741728,-80.19362,12808.0,12808.0,0.0,2013-04-10
+Orlando,United States,Amway Center,Ed Sheeran and Brett Eldredge,2054128.0,The Red Tour,28.5421109,-81.3790304,25617.0,25617.0,0.0,2013-04-11
+Orlando,United States,Amway Center,Ed Sheeran and Brett Eldredge,2054128.0,The Red Tour,28.5421109,-81.3790304,25617.0,25617.0,0.0,2013-04-12
+Orlando,United States,Amway Center,Ed Sheeran and Brett Eldredge,2054128.0,The Red Tour,28.5421109,-81.3790304,25617.0,25617.0,0.0,2013-04-11
+Orlando,United States,Amway Center,Ed Sheeran and Brett Eldredge,2054128.0,The Red Tour,28.5421109,-81.3790304,25617.0,25617.0,0.0,2013-04-12
+Atlanta,United States,Philips Arena,Ed Sheeran and Brett Eldredge,2048023.0,The Red Tour,33.7489924,-84.3902644,25471.0,25471.0,0.0,2013-04-18
+Atlanta,United States,Philips Arena,Ed Sheeran and Brett Eldredge,2048023.0,The Red Tour,33.7489924,-84.3902644,25471.0,25471.0,0.0,2013-04-19
+Atlanta,United States,Philips Arena,Ed Sheeran and Brett Eldredge,2048023.0,The Red Tour,33.7489924,-84.3902644,25471.0,25471.0,0.0,2013-04-18
+Atlanta,United States,Philips Arena,Ed Sheeran and Brett Eldredge,2048023.0,The Red Tour,33.7489924,-84.3902644,25471.0,25471.0,0.0,2013-04-19
+Tampa,United States,Tampa Bay Times Forum,Ed Sheeran and Brett Eldredge,1132095.0,The Red Tour,27.9477595,-82.458444,14080.0,14080.0,0.0,2013-04-20
+Cleveland,United States,Quicken Loans Arena,Ed Sheeran and Brett Eldredge,1247605.0,The Red Tour,41.4996574,-81.6936772,15336.0,15336.0,0.0,2013-04-25
+Indianapolis,United States,Bankers Life Fieldhouse,Ed Sheeran and Brett Eldredge,1082042.0,The Red Tour,39.7683331,-86.1583502,13573.0,13573.0,0.0,2013-04-26
+Lexington,United States,Rupp Arena,Ed Sheeran and Brett Eldredge,1342699.0,The Red Tour,38.0464066,-84.4970393,17003.0,17003.0,0.0,2013-04-27
+Detroit,United States,Ford Field,Ed Sheeran and Austin Mahone and Brett Eldredge,3969059.0,The Red Tour,42.3315509,-83.0466403,48265.0,48265.0,0.0,2013-05-04
+Louisville,United States,KFC Yum! Center,Ed Sheeran and Florida Georgia Line,1246491.0,The Red Tour,38.2542376,-85.759407,15135.0,15135.0,0.0,2013-05-07
+Columbus,United States,Nationwide Arena,Ed Sheeran and Florida Georgia Line,1155170.0,The Red Tour,39.9622601,-83.0007065,14267.0,14267.0,0.0,2013-05-08
+Washington,United States,Verizon Center,Ed Sheeran and Brett Eldredge,2489205.0,The Red Tour,38.8950368,-77.0365427,27619.0,27619.0,0.0,2013-05-11
+Washington,United States,Verizon Center,Ed Sheeran and Brett Eldredge,2489205.0,The Red Tour,38.8950368,-77.0365427,27619.0,27619.0,0.0,2013-05-12
+Washington,United States,Verizon Center,Ed Sheeran and Brett Eldredge,2489205.0,The Red Tour,38.8950368,-77.0365427,27619.0,27619.0,0.0,2013-05-11
+Washington,United States,Verizon Center,Ed Sheeran and Brett Eldredge,2489205.0,The Red Tour,38.8950368,-77.0365427,27619.0,27619.0,0.0,2013-05-12
+Houston,United States,Toyota Center,Ed Sheeran and Brett Eldredge,961422.0,The Red Tour,29.7589382,-95.3676974,12467.0,12467.0,0.0,2013-05-16
+Austin,United States,Frank Erwin Center,Ed Sheeran and Florida Georgia Line,935631.0,The Red Tour,30.2711286,-97.7436995,11916.0,11916.0,0.0,2013-05-21
+San Antonio,United States,AT&T Center,Ed Sheeran and Florida Georgia Line,1105253.0,The Red Tour,29.4246002,-98.4951405,13974.0,13974.0,0.0,2013-05-22
+Arlington,United States,Cowboys Stadium,Ed Sheeran and Austin Mahone and Florida Georgia Line,4589266.0,The Red Tour,32.7355816,-97.1071186,53020.0,53020.0,0.0,2013-05-25
+Glendale,United States,Jobing.com Arena,Ed Sheeran and Joel Crouse,2239370.0,The Red Tour,34.1469416,-118.2478471,26705.0,26705.0,0.0,2013-05-28
+Glendale,United States,Jobing.com Arena,Ed Sheeran and Joel Crouse,2239370.0,The Red Tour,34.1469416,-118.2478471,26705.0,26705.0,0.0,2013-05-29
+Glendale,United States,Jobing.com Arena,Ed Sheeran and Joel Crouse,2239370.0,The Red Tour,34.1469416,-118.2478471,26705.0,26705.0,0.0,2013-05-28
+Glendale,United States,Jobing.com Arena,Ed Sheeran and Joel Crouse,2239370.0,The Red Tour,34.1469416,-118.2478471,26705.0,26705.0,0.0,2013-05-29
+Salt Lake City,United States,EnergySolutions Arena,Ed Sheeran and Joel Crouse,1139360.0,The Red Tour,40.7596198,-111.886797,14007.0,14007.0,0.0,2013-06-01
+Denver,United States,Pepsi Center,Ed Sheeran and Joel Crouse,1076069.0,The Red Tour,39.7392364,-104.984862,13489.0,13489.0,0.0,2013-06-02
+Toronto,Canada,Rogers Centre,Ed Sheeran and Austin Mahone and Joel Crouse,7863310.0,The Red Tour,43.6534817,-79.3839347,87627.0,87627.0,0.0,2013-06-14
+Toronto,Canada,Rogers Centre,Ed Sheeran and Austin Mahone and Joel Crouse,7863310.0,The Red Tour,43.6534817,-79.3839347,87627.0,87627.0,0.0,2013-06-15
+Toronto,Canada,Rogers Centre,Ed Sheeran and Austin Mahone and Joel Crouse,7863310.0,The Red Tour,43.6534817,-79.3839347,87627.0,87627.0,0.0,2013-06-14
+Toronto,Canada,Rogers Centre,Ed Sheeran and Austin Mahone and Joel Crouse,7863310.0,The Red Tour,43.6534817,-79.3839347,87627.0,87627.0,0.0,2013-06-15
+Winnipeg,Canada,Investors Group Field,Ed Sheeran and Austin Mahone and Joel Crouse,3175430.0,The Red Tour,49.8955367,-97.1384584,33061.0,33061.0,0.0,2013-06-22
+Edmonton,Canada,Rexall Place,Ed Sheeran and Joel Crouse,2379870.0,The Red Tour,53.5462055,-113.491241,25663.0,25663.0,0.0,2013-06-25
+Edmonton,Canada,Rexall Place,Ed Sheeran and Joel Crouse,2379870.0,The Red Tour,53.5462055,-113.491241,25663.0,25663.0,0.0,2013-06-26
+Edmonton,Canada,Rexall Place,Ed Sheeran and Joel Crouse,2379870.0,The Red Tour,53.5462055,-113.491241,25663.0,25663.0,0.0,2013-06-25
+Edmonton,Canada,Rexall Place,Ed Sheeran and Joel Crouse,2379870.0,The Red Tour,53.5462055,-113.491241,25663.0,25663.0,0.0,2013-06-26
+Vancouver,Canada,BC Place Stadium,Ed Sheeran and Austin Mahone and Joel Crouse,3974410.0,The Red Tour,49.2608724,-123.113952,41142.0,41142.0,0.0,2013-06-29
+Pittsburgh,United States,Heinz Field,Ed Sheeran and Austin Mahone and Joel Crouse,4718518.0,The Red Tour,40.4416941,-79.9900861,56047.0,56047.0,0.0,2013-07-06
+East Rutherford,United States,MetLife Stadium,Ed Sheeran and Austin Mahone and Joel Crouse,4670011.0,The Red Tour,40.833989,-74.0970865,52399.0,52399.0,0.0,2013-07-13
+Philadelphia,United States,Lincoln Financial Field,Ed Sheeran and Austin Mahone and Joel Crouse,8822335.0,The Red Tour,39.9527237,-75.1635262,101277.0,101277.0,0.0,2013-07-19
+Philadelphia,United States,Lincoln Financial Field,Ed Sheeran and Austin Mahone and Joel Crouse,8822335.0,The Red Tour,39.9527237,-75.1635262,101277.0,101277.0,0.0,2013-07-20
+Philadelphia,United States,Lincoln Financial Field,Ed Sheeran and Austin Mahone and Joel Crouse,8822335.0,The Red Tour,39.9527237,-75.1635262,101277.0,101277.0,0.0,2013-07-19
+Philadelphia,United States,Lincoln Financial Field,Ed Sheeran and Austin Mahone and Joel Crouse,8822335.0,The Red Tour,39.9527237,-75.1635262,101277.0,101277.0,0.0,2013-07-20
+Foxborough,United States,Gillette Stadium,Ed Sheeran and Austin Mahone and Joel Crouse,9464063.0,The Red Tour,42.0653768,-71.2478308,110712.0,110712.0,0.0,2013-07-26
+Foxborough,United States,Gillette Stadium,Ed Sheeran and Austin Mahone and Joel Crouse,9464063.0,The Red Tour,42.0653768,-71.2478308,110712.0,110712.0,0.0,2013-07-27
+Foxborough,United States,Gillette Stadium,Ed Sheeran and Austin Mahone and Joel Crouse,9464063.0,The Red Tour,42.0653768,-71.2478308,110712.0,110712.0,0.0,2013-07-26
+Foxborough,United States,Gillette Stadium,Ed Sheeran and Austin Mahone and Joel Crouse,9464063.0,The Red Tour,42.0653768,-71.2478308,110712.0,110712.0,0.0,2013-07-27
+Des Moines,United States,Wells Fargo Arena,Ed Sheeran and Florida Georgia Line,1075576.0,The Red Tour,41.5910323,-93.6046655,13368.0,13368.0,0.0,2013-08-01
+Kansas City,United States,Sprint Center,Ed Sheeran and Florida Georgia Line,2093172.0,The Red Tour,39.100105,-94.5781416,26412.0,26412.0,0.0,2013-08-02
+Kansas City,United States,Sprint Center,Ed Sheeran and Florida Georgia Line,2093172.0,The Red Tour,39.100105,-94.5781416,26412.0,26412.0,0.0,2013-08-03
+Kansas City,United States,Sprint Center,Ed Sheeran and Florida Georgia Line,2093172.0,The Red Tour,39.100105,-94.5781416,26412.0,26412.0,0.0,2013-08-02
+Kansas City,United States,Sprint Center,Ed Sheeran and Florida Georgia Line,2093172.0,The Red Tour,39.100105,-94.5781416,26412.0,26412.0,0.0,2013-08-03
+Wichita,United States,Intrust Bank Arena,Ed Sheeran and Casey James,983882.0,The Red Tour,37.6922361,-97.3375448,12231.0,12231.0,0.0,2013-08-06
+Tulsa,United States,BOK Center,Ed Sheeran and Casey James,868955.0,The Red Tour,36.1563122,-95.9927516,10949.0,10949.0,0.0,2013-08-07
+Chicago,United States,Soldier Field,Ed Sheeran and Austin Mahone and Casey James,4149148.0,The Red Tour,41.8755616,-87.6244212,50809.0,50809.0,0.0,2013-08-10
+San Diego,United States,Valley View Casino Center,Ed Sheeran and Casey James,948541.0,The Red Tour,32.7174202,-117.1627728,10872.0,10872.0,0.0,2013-08-15
+Los Angeles,United States,Staples Center,Ed Sheeran and Casey James,4734463.0,The Red Tour,34.0536909,-118.242766,55829.0,55829.0,0.0,2013-08-19
+Los Angeles,United States,Staples Center,Ed Sheeran and Casey James,4734463.0,The Red Tour,34.0536909,-118.242766,55829.0,55829.0,0.0,2013-08-20
+Los Angeles,United States,Staples Center,Ed Sheeran and Casey James,4734463.0,The Red Tour,34.0536909,-118.242766,55829.0,55829.0,0.0,2013-08-23
+Los Angeles,United States,Staples Center,Ed Sheeran and Casey James,4734463.0,The Red Tour,34.0536909,-118.242766,55829.0,55829.0,0.0,2013-08-24
+Los Angeles,United States,Staples Center,Ed Sheeran and Casey James,4734463.0,The Red Tour,34.0536909,-118.242766,55829.0,55829.0,0.0,2013-08-19
+Los Angeles,United States,Staples Center,Ed Sheeran and Casey James,4734463.0,The Red Tour,34.0536909,-118.242766,55829.0,55829.0,0.0,2013-08-20
+Los Angeles,United States,Staples Center,Ed Sheeran and Casey James,4734463.0,The Red Tour,34.0536909,-118.242766,55829.0,55829.0,0.0,2013-08-23
+Los Angeles,United States,Staples Center,Ed Sheeran and Casey James,4734463.0,The Red Tour,34.0536909,-118.242766,55829.0,55829.0,0.0,2013-08-24
+Los Angeles,United States,Staples Center,Ed Sheeran and Casey James,4734463.0,The Red Tour,34.0536909,-118.242766,55829.0,55829.0,0.0,2013-08-19
+Los Angeles,United States,Staples Center,Ed Sheeran and Casey James,4734463.0,The Red Tour,34.0536909,-118.242766,55829.0,55829.0,0.0,2013-08-20
+Los Angeles,United States,Staples Center,Ed Sheeran and Casey James,4734463.0,The Red Tour,34.0536909,-118.242766,55829.0,55829.0,0.0,2013-08-23
+Los Angeles,United States,Staples Center,Ed Sheeran and Casey James,4734463.0,The Red Tour,34.0536909,-118.242766,55829.0,55829.0,0.0,2013-08-24
+Los Angeles,United States,Staples Center,Ed Sheeran and Casey James,4734463.0,The Red Tour,34.0536909,-118.242766,55829.0,55829.0,0.0,2013-08-19
+Los Angeles,United States,Staples Center,Ed Sheeran and Casey James,4734463.0,The Red Tour,34.0536909,-118.242766,55829.0,55829.0,0.0,2013-08-20
+Los Angeles,United States,Staples Center,Ed Sheeran and Casey James,4734463.0,The Red Tour,34.0536909,-118.242766,55829.0,55829.0,0.0,2013-08-23
+Los Angeles,United States,Staples Center,Ed Sheeran and Casey James,4734463.0,The Red Tour,34.0536909,-118.242766,55829.0,55829.0,0.0,2013-08-24
+Sacramento,United States,Sleep Train Arena,Ed Sheeran and Casey James,1138103.0,The Red Tour,38.5810606,-121.493895,12795.0,12795.0,0.0,2013-08-27
+Portland,United States,Moda Center,Ed Sheeran and Casey James,1084760.0,The Red Tour,45.5202471,-122.674194,13952.0,13952.0,0.0,2013-08-30
+Tacoma,United States,Tacoma Dome,Ed Sheeran and Casey James,1584049.0,The Red Tour,47.2455013,-122.438329,20348.0,20348.0,0.0,2013-08-31
+Fargo,United States,Fargodome,Ed Sheeran and Casey James,1661578.0,The Red Tour,46.877229,-96.789821,21073.0,21073.0,0.0,2013-09-06
+Saint Paul,United States,Xcel Energy Center,Ed Sheeran and Casey James,2320937.0,The Red Tour,44.9497487,-93.0931028,28920.0,28920.0,0.0,2013-09-07
+Saint Paul,United States,Xcel Energy Center,Ed Sheeran and Casey James,2320937.0,The Red Tour,44.9497487,-93.0931028,28920.0,28920.0,0.0,2013-09-08
+Saint Paul,United States,Xcel Energy Center,Ed Sheeran and Casey James,2320937.0,The Red Tour,44.9497487,-93.0931028,28920.0,28920.0,0.0,2013-09-07
+Saint Paul,United States,Xcel Energy Center,Ed Sheeran and Casey James,2320937.0,The Red Tour,44.9497487,-93.0931028,28920.0,28920.0,0.0,2013-09-08
+Greensboro,United States,Greensboro Coliseum Complex,Ed Sheeran and Casey James,1109253.0,The Red Tour,36.0726355,-79.7919754,13650.0,13650.0,0.0,2013-09-12
+Raleigh,United States,PNC Arena,Ed Sheeran and Casey James,1088612.0,The Red Tour,35.7803977,-78.6390989,13941.0,13941.0,0.0,2013-09-13
+Charlottesville,United States,John Paul Jones Arena,Ed Sheeran and Casey James,997216.0,The Red Tour,38.029306,-78.4766781,12689.0,12689.0,0.0,2013-09-14
+Nashville,United States,Bridgestone Arena,Ed Sheeran and Casey James,3336545.0,The Red Tour,36.1622767,-86.7742984,41292.0,41292.0,0.0,2013-09-19
+Nashville,United States,Bridgestone Arena,Ed Sheeran and Casey James,3336545.0,The Red Tour,36.1622767,-86.7742984,41292.0,41292.0,0.0,2013-09-20
+Nashville,United States,Bridgestone Arena,Ed Sheeran and Casey James,3336545.0,The Red Tour,36.1622767,-86.7742984,41292.0,41292.0,0.0,2013-09-21
+Nashville,United States,Bridgestone Arena,Ed Sheeran and Casey James,3336545.0,The Red Tour,36.1622767,-86.7742984,41292.0,41292.0,0.0,2013-09-19
+Nashville,United States,Bridgestone Arena,Ed Sheeran and Casey James,3336545.0,The Red Tour,36.1622767,-86.7742984,41292.0,41292.0,0.0,2013-09-20
+Nashville,United States,Bridgestone Arena,Ed Sheeran and Casey James,3336545.0,The Red Tour,36.1622767,-86.7742984,41292.0,41292.0,0.0,2013-09-21
+Nashville,United States,Bridgestone Arena,Ed Sheeran and Casey James,3336545.0,The Red Tour,36.1622767,-86.7742984,41292.0,41292.0,0.0,2013-09-19
+Nashville,United States,Bridgestone Arena,Ed Sheeran and Casey James,3336545.0,The Red Tour,36.1622767,-86.7742984,41292.0,41292.0,0.0,2013-09-20
+Nashville,United States,Bridgestone Arena,Ed Sheeran and Casey James,3336545.0,The Red Tour,36.1622767,-86.7742984,41292.0,41292.0,0.0,2013-09-21
+Auckland,New Zealand,Vector Arena,Neon Trees,3100290.0,The Red Tour,-36.852095,174.7631803,30799.0,30799.0,0.0,2013-11-29
+Auckland,New Zealand,Vector Arena,Neon Trees,3100290.0,The Red Tour,-36.852095,174.7631803,30799.0,30799.0,0.0,2013-11-30
+Auckland,New Zealand,Vector Arena,Neon Trees,3100290.0,The Red Tour,-36.852095,174.7631803,30799.0,30799.0,0.0,2013-12-01
+Auckland,New Zealand,Vector Arena,Neon Trees,3100290.0,The Red Tour,-36.852095,174.7631803,30799.0,30799.0,0.0,2013-11-29
+Auckland,New Zealand,Vector Arena,Neon Trees,3100290.0,The Red Tour,-36.852095,174.7631803,30799.0,30799.0,0.0,2013-11-30
+Auckland,New Zealand,Vector Arena,Neon Trees,3100290.0,The Red Tour,-36.852095,174.7631803,30799.0,30799.0,0.0,2013-12-01
+Auckland,New Zealand,Vector Arena,Neon Trees,3100290.0,The Red Tour,-36.852095,174.7631803,30799.0,30799.0,0.0,2013-11-29
+Auckland,New Zealand,Vector Arena,Neon Trees,3100290.0,The Red Tour,-36.852095,174.7631803,30799.0,30799.0,0.0,2013-11-30
+Auckland,New Zealand,Vector Arena,Neon Trees,3100290.0,The Red Tour,-36.852095,174.7631803,30799.0,30799.0,0.0,2013-12-01
+Sydney,Australia,Allianz Stadium,Guy Sebastian and Neon Trees,4096060.0,The Red Tour,-33.8698439,151.2082848,40930.0,40930.0,0.0,2013-12-04
+Brisbane,Australia,Suncorp Stadium,Guy Sebastian and Neon Trees,3895810.0,The Red Tour,-27.4689682,153.0234991,38907.0,38907.0,0.0,2013-12-07
+Perth,Australia,Perth Rectangular Stadium,Guy Sebastian and Neon Trees,2364080.0,The Red Tour,-31.9558933,115.8605855,21827.0,21827.0,0.0,2013-12-11
+Melbourne,Australia,Etihad Stadium,Guy Sebastian and Neon Trees,4547250.0,The Red Tour,-37.8142454,144.9631732,47257.0,47257.0,0.0,2013-12-14
+London,England,The O2 Arena,The Vamps,5829240.0,The Red Tour,51.5074456,-0.1277653,74740.0,74740.0,0.0,2014-02-01
+London,England,The O2 Arena,The Vamps,5829240.0,The Red Tour,51.5074456,-0.1277653,74740.0,74740.0,0.0,2014-02-02
+London,England,The O2 Arena,The Vamps,5829240.0,The Red Tour,51.5074456,-0.1277653,74740.0,74740.0,0.0,2014-02-04
+London,England,The O2 Arena,The Vamps,5829240.0,The Red Tour,51.5074456,-0.1277653,74740.0,74740.0,0.0,2014-02-10
+London,England,The O2 Arena,The Vamps,5829240.0,The Red Tour,51.5074456,-0.1277653,74740.0,74740.0,0.0,2014-02-11
+London,England,The O2 Arena,The Vamps,5829240.0,The Red Tour,51.5074456,-0.1277653,74740.0,74740.0,0.0,2014-02-01
+London,England,The O2 Arena,The Vamps,5829240.0,The Red Tour,51.5074456,-0.1277653,74740.0,74740.0,0.0,2014-02-02
+London,England,The O2 Arena,The Vamps,5829240.0,The Red Tour,51.5074456,-0.1277653,74740.0,74740.0,0.0,2014-02-04
+London,England,The O2 Arena,The Vamps,5829240.0,The Red Tour,51.5074456,-0.1277653,74740.0,74740.0,0.0,2014-02-10
+London,England,The O2 Arena,The Vamps,5829240.0,The Red Tour,51.5074456,-0.1277653,74740.0,74740.0,0.0,2014-02-11
+London,England,The O2 Arena,The Vamps,5829240.0,The Red Tour,51.5074456,-0.1277653,74740.0,74740.0,0.0,2014-02-01
+London,England,The O2 Arena,The Vamps,5829240.0,The Red Tour,51.5074456,-0.1277653,74740.0,74740.0,0.0,2014-02-02
+London,England,The O2 Arena,The Vamps,5829240.0,The Red Tour,51.5074456,-0.1277653,74740.0,74740.0,0.0,2014-02-04
+London,England,The O2 Arena,The Vamps,5829240.0,The Red Tour,51.5074456,-0.1277653,74740.0,74740.0,0.0,2014-02-10
+London,England,The O2 Arena,The Vamps,5829240.0,The Red Tour,51.5074456,-0.1277653,74740.0,74740.0,0.0,2014-02-11
+Berlin,Germany,O2 World,Andreas Bourani,755006.0,The Red Tour,52.5170365,13.3888599,10350.0,10350.0,0.0,2014-02-07
+London,England,The O2 Arena,The Vamps,0.0,The Red Tour,51.5074456,-0.1277653,,,,2014-02-01
+London,England,The O2 Arena,The Vamps,0.0,The Red Tour,51.5074456,-0.1277653,,,,2014-02-02
+London,England,The O2 Arena,The Vamps,0.0,The Red Tour,51.5074456,-0.1277653,,,,2014-02-04
+London,England,The O2 Arena,The Vamps,0.0,The Red Tour,51.5074456,-0.1277653,,,,2014-02-10
+London,England,The O2 Arena,The Vamps,0.0,The Red Tour,51.5074456,-0.1277653,,,,2014-02-11
+London,England,The O2 Arena,The Vamps,0.0,The Red Tour,51.5074456,-0.1277653,,,,2014-02-01
+London,England,The O2 Arena,The Vamps,0.0,The Red Tour,51.5074456,-0.1277653,,,,2014-02-02
+London,England,The O2 Arena,The Vamps,0.0,The Red Tour,51.5074456,-0.1277653,,,,2014-02-04
+London,England,The O2 Arena,The Vamps,0.0,The Red Tour,51.5074456,-0.1277653,,,,2014-02-10
+London,England,The O2 Arena,The Vamps,0.0,The Red Tour,51.5074456,-0.1277653,,,,2014-02-11
+Shanghai,China,Mercedes-Benz Arena,,1864934.0,The Red Tour,31.2312707,121.4700152,12793.0,12793.0,0.0,2014-05-30
+Saitama,Japan,Saitama Super Arena,CTS,1837147.0,The Red Tour,35.9754168,139.4160114,20046.0,20046.0,0.0,2014-06-01
+Jakarta,Indonesia,MEIS Ancol,Nicole Zefanya,1481473.0,The Red Tour,-6.175247,106.8270488,8130.0,8130.0,0.0,2014-06-04
+Pasay,Philippines,Mall of Asia Arena,Meg Bucsit,1511662.0,The Red Tour,14.5436995,120.9946503,9775.0,9775.0,0.0,2014-06-06
+Singapore,Singapore,Singapore Indoor Stadium,Imprompt-3,2524080.0,The Red Tour,1.357107,103.8194992,16344.0,16344.0,0.0,2014-06-09
+Singapore,Singapore,Singapore Indoor Stadium,Imprompt-3,2524080.0,The Red Tour,1.357107,103.8194992,16344.0,16344.0,0.0,2014-06-12
+Kuala Lumpur,Malaysia,Putra Indoor Stadium,IamNeeta,998608.0,The Red Tour,3.1516964,101.6942371,7525.0,7525.0,0.0,2014-06-11
+Singapore,Singapore,Singapore Indoor Stadium,Imprompt-3,0.0,The Red Tour,1.357107,103.8194992,,,,2014-06-09
+Singapore,Singapore,Singapore Indoor Stadium,Imprompt-3,0.0,The Red Tour,1.357107,103.8194992,,,,2014-06-12
+Tokyo,Japan,Tokyo Dome,,10586828.0,The 1989 World Tour,35.6821936,139.762221,100320.0,100320.0,0.0,2015-05-05
+Tokyo,Japan,Tokyo Dome,,10586828.0,The 1989 World Tour,35.6821936,139.762221,100320.0,100320.0,0.0,2015-05-06
+Tokyo,Japan,Tokyo Dome,,10586828.0,The 1989 World Tour,35.6821936,139.762221,100320.0,100320.0,0.0,2015-05-05
+Tokyo,Japan,Tokyo Dome,,10586828.0,The 1989 World Tour,35.6821936,139.762221,100320.0,100320.0,0.0,2015-05-06
+Las Vegas,United States,City of Rock,,0.0,The 1989 World Tour,39.1852184,-78.1652404,,,,
+Bossier City,United States,CenturyLink Center,Vance Joy,1458197.0,The 1989 World Tour,32.515887,-93.7336536,12459.0,12459.0,0.0,2015-05-20
+Baton Rouge,United States,Tiger Stadium,Vance Joy and Shawn Mendes,4119670.0,The 1989 World Tour,30.4494155,-91.1869659,50227.0,50227.0,0.0,2015-05-22
+Detroit,United States,Ford Field,Vance Joy and Shawn Mendes,5999690.0,The 1989 World Tour,42.3315509,-83.0466403,50703.0,50703.0,0.0,2015-05-30
+Louisville,United States,KFC Yum! Center,Vance Joy,1863281.0,The 1989 World Tour,38.2542376,-85.759407,16242.0,16242.0,0.0,2015-06-02
+Cleveland,United States,Quicken Loans Arena,Vance Joy,1732041.0,The 1989 World Tour,41.4996574,-81.6936772,15503.0,15503.0,0.0,2015-06-03
+Pittsburgh,United States,Heinz Field,Vance Joy and Shawn Mendes,5836926.0,The 1989 World Tour,40.4416941,-79.9900861,54801.0,54801.0,0.0,2015-06-06
+Charlotte,United States,Time Warner Cable Arena,Vance Joy,1627798.0,The 1989 World Tour,35.2272086,-80.8430827,15024.0,15024.0,0.0,2015-06-08
+Raleigh,United States,PNC Arena,Vance Joy,1653762.0,The 1989 World Tour,35.7803977,-78.6390989,13886.0,13886.0,0.0,2015-06-09
+Philadelphia,United States,Lincoln Financial Field,Vance Joy and Shawn Mendes,11987816.0,The 1989 World Tour,39.9527237,-75.1635262,101052.0,101052.0,0.0,2015-06-12
+Philadelphia,United States,Lincoln Financial Field,Vance Joy and Shawn Mendes,11987816.0,The 1989 World Tour,39.9527237,-75.1635262,101052.0,101052.0,0.0,2015-06-13
+Philadelphia,United States,Lincoln Financial Field,Vance Joy and Shawn Mendes,11987816.0,The 1989 World Tour,39.9527237,-75.1635262,101052.0,101052.0,0.0,2015-06-12
+Philadelphia,United States,Lincoln Financial Field,Vance Joy and Shawn Mendes,11987816.0,The 1989 World Tour,39.9527237,-75.1635262,101052.0,101052.0,0.0,2015-06-13
+Cologne,Germany,Lanxess Arena,James Bay,2054690.0,The 1989 World Tour,50.938361,6.959974,29020.0,29020.0,0.0,2015-06-19
+Cologne,Germany,Lanxess Arena,James Bay,2054690.0,The 1989 World Tour,50.938361,6.959974,29020.0,29020.0,0.0,2015-06-20
+Cologne,Germany,Lanxess Arena,James Bay,2054690.0,The 1989 World Tour,50.938361,6.959974,29020.0,29020.0,0.0,2015-06-19
+Cologne,Germany,Lanxess Arena,James Bay,2054690.0,The 1989 World Tour,50.938361,6.959974,29020.0,29020.0,0.0,2015-06-20
+Amsterdam,Netherlands,Ziggo Dome,James Bay,800829.0,The 1989 World Tour,52.3730796,4.8924534,11166.0,11166.0,0.0,2015-06-21
+Glasgow,Scotland,SSE Hydro,Vance Joy,1119300.0,The 1989 World Tour,55.861155,-4.2501687,11021.0,11021.0,0.0,2015-06-23
+Manchester,England,Manchester Arena,Vance Joy,1478760.0,The 1989 World Tour,53.4794892,-2.2451148,14773.0,14773.0,0.0,2015-06-24
+London,England,Hyde Park,,0.0,The 1989 World Tour,51.5074456,-0.1277653,,,,
+Dublin,Ireland,3Arena,Vance Joy,1975510.0,The 1989 World Tour,53.3493795,-6.2605593,25188.0,25188.0,0.0,2015-06-29
+Dublin,Ireland,3Arena,Vance Joy,1975510.0,The 1989 World Tour,53.3493795,-6.2605593,25188.0,25188.0,0.0,2015-06-30
+Dublin,Ireland,3Arena,Vance Joy,1975510.0,The 1989 World Tour,53.3493795,-6.2605593,25188.0,25188.0,0.0,2015-06-29
+Dublin,Ireland,3Arena,Vance Joy,1975510.0,The 1989 World Tour,53.3493795,-6.2605593,25188.0,25188.0,0.0,2015-06-30
+Ottawa,Canada,Canadian Tire Centre,Vance Joy,1325480.0,The 1989 World Tour,45.4208777,-75.6901106,13480.0,13480.0,0.0,2015-07-06
+Montreal,Canada,Bell Centre,Vance Joy,1499040.0,The 1989 World Tour,45.5031824,-73.5698065,14770.0,14770.0,0.0,2015-07-07
+East Rutherford,United States,MetLife Stadium,Vance Joy and Shawn Mendes and Haim,13423858.0,The 1989 World Tour,40.833989,-74.0970865,110105.0,110105.0,0.0,2015-07-10
+East Rutherford,United States,MetLife Stadium,Vance Joy and Shawn Mendes and Haim,13423858.0,The 1989 World Tour,40.833989,-74.0970865,110105.0,110105.0,0.0,2015-07-11
+East Rutherford,United States,MetLife Stadium,Vance Joy and Shawn Mendes and Haim,13423858.0,The 1989 World Tour,40.833989,-74.0970865,110105.0,110105.0,0.0,2015-07-10
+East Rutherford,United States,MetLife Stadium,Vance Joy and Shawn Mendes and Haim,13423858.0,The 1989 World Tour,40.833989,-74.0970865,110105.0,110105.0,0.0,2015-07-11
+Washington,United States,Nationals Park,Vance Joy and Shawn Mendes and Haim,9730596.0,The 1989 World Tour,38.8950368,-77.0365427,85014.0,85014.0,0.0,2015-07-13
+Washington,United States,Nationals Park,Vance Joy and Shawn Mendes and Haim,9730596.0,The 1989 World Tour,38.8950368,-77.0365427,85014.0,85014.0,0.0,2015-07-14
+Washington,United States,Nationals Park,Vance Joy and Shawn Mendes and Haim,9730596.0,The 1989 World Tour,38.8950368,-77.0365427,85014.0,85014.0,0.0,2015-07-13
+Washington,United States,Nationals Park,Vance Joy and Shawn Mendes and Haim,9730596.0,The 1989 World Tour,38.8950368,-77.0365427,85014.0,85014.0,0.0,2015-07-14
+Chicago,United States,Soldier Field,Vance Joy and Shawn Mendes and Haim,11469887.0,The 1989 World Tour,41.8755616,-87.6244212,110109.0,110109.0,0.0,2015-07-18
+Chicago,United States,Soldier Field,Vance Joy and Shawn Mendes and Haim,11469887.0,The 1989 World Tour,41.8755616,-87.6244212,110109.0,110109.0,0.0,2015-07-19
+Chicago,United States,Soldier Field,Vance Joy and Shawn Mendes and Haim,11469887.0,The 1989 World Tour,41.8755616,-87.6244212,110109.0,110109.0,0.0,2015-07-18
+Chicago,United States,Soldier Field,Vance Joy and Shawn Mendes and Haim,11469887.0,The 1989 World Tour,41.8755616,-87.6244212,110109.0,110109.0,0.0,2015-07-19
+Foxborough,United States,Gillette Stadium,Vance Joy and Shawn Mendes and Haim,12533166.0,The 1989 World Tour,42.0653768,-71.2478308,116849.0,116849.0,0.0,2015-07-24
+Foxborough,United States,Gillette Stadium,Vance Joy and Shawn Mendes and Haim,12533166.0,The 1989 World Tour,42.0653768,-71.2478308,116849.0,116849.0,0.0,2015-07-25
+Foxborough,United States,Gillette Stadium,Vance Joy and Shawn Mendes and Haim,12533166.0,The 1989 World Tour,42.0653768,-71.2478308,116849.0,116849.0,0.0,2015-07-24
+Foxborough,United States,Gillette Stadium,Vance Joy and Shawn Mendes and Haim,12533166.0,The 1989 World Tour,42.0653768,-71.2478308,116849.0,116849.0,0.0,2015-07-25
+Vancouver,Canada,BC Place Stadium,Vance Joy and Shawn Mendes,4081820.0,The 1989 World Tour,49.2608724,-123.113952,41463.0,41463.0,0.0,2015-08-01
+Edmonton,Canada,Rexall Place,Vance Joy,2387080.0,The 1989 World Tour,53.5462055,-113.491241,26534.0,26534.0,0.0,2015-08-04
+Edmonton,Canada,Rexall Place,Vance Joy,2387080.0,The 1989 World Tour,53.5462055,-113.491241,26534.0,26534.0,0.0,2015-08-05
+Edmonton,Canada,Rexall Place,Vance Joy,2387080.0,The 1989 World Tour,53.5462055,-113.491241,26534.0,26534.0,0.0,2015-08-04
+Edmonton,Canada,Rexall Place,Vance Joy,2387080.0,The 1989 World Tour,53.5462055,-113.491241,26534.0,26534.0,0.0,2015-08-05
+Seattle,United States,CenturyLink Field,Vance Joy and Shawn Mendes,6050643.0,The 1989 World Tour,47.6038321,-122.330062,55711.0,55711.0,0.0,2015-08-08
+Santa Clara,United States,Levi's Stadium,Vance Joy and Shawn Mendes,13031146.0,The 1989 World Tour,37.2333253,-121.6846349,102139.0,102139.0,0.0,2015-08-14
+Santa Clara,United States,Levi's Stadium,Vance Joy and Shawn Mendes,13031146.0,The 1989 World Tour,37.2333253,-121.6846349,102139.0,102139.0,0.0,2015-08-15
+Santa Clara,United States,Levi's Stadium,Vance Joy and Shawn Mendes,13031146.0,The 1989 World Tour,37.2333253,-121.6846349,102139.0,102139.0,0.0,2015-08-14
+Santa Clara,United States,Levi's Stadium,Vance Joy and Shawn Mendes,13031146.0,The 1989 World Tour,37.2333253,-121.6846349,102139.0,102139.0,0.0,2015-08-15
+Glendale,United States,Gila River Arena,Vance Joy,3029628.0,The 1989 World Tour,34.1469416,-118.2478471,26520.0,26520.0,0.0,2015-08-17
+Glendale,United States,Gila River Arena,Vance Joy,3029628.0,The 1989 World Tour,34.1469416,-118.2478471,26520.0,26520.0,0.0,2015-08-18
+Glendale,United States,Gila River Arena,Vance Joy,3029628.0,The 1989 World Tour,34.1469416,-118.2478471,26520.0,26520.0,0.0,2015-08-17
+Glendale,United States,Gila River Arena,Vance Joy,3029628.0,The 1989 World Tour,34.1469416,-118.2478471,26520.0,26520.0,0.0,2015-08-18
+Los Angeles,United States,Staples Center,Vance Joy and Haim,8961681.0,The 1989 World Tour,34.0536909,-118.242766,70563.0,70563.0,0.0,2015-08-21
+Los Angeles,United States,Staples Center,Vance Joy and Haim,8961681.0,The 1989 World Tour,34.0536909,-118.242766,70563.0,70563.0,0.0,2015-08-22
+Los Angeles,United States,Staples Center,Vance Joy and Haim,8961681.0,The 1989 World Tour,34.0536909,-118.242766,70563.0,70563.0,0.0,2015-08-24
+Los Angeles,United States,Staples Center,Vance Joy and Haim,8961681.0,The 1989 World Tour,34.0536909,-118.242766,70563.0,70563.0,0.0,2015-08-25
+Los Angeles,United States,Staples Center,Vance Joy and Haim,8961681.0,The 1989 World Tour,34.0536909,-118.242766,70563.0,70563.0,0.0,2015-08-26
+Los Angeles,United States,Staples Center,Vance Joy and Haim,8961681.0,The 1989 World Tour,34.0536909,-118.242766,70563.0,70563.0,0.0,2015-08-21
+Los Angeles,United States,Staples Center,Vance Joy and Haim,8961681.0,The 1989 World Tour,34.0536909,-118.242766,70563.0,70563.0,0.0,2015-08-22
+Los Angeles,United States,Staples Center,Vance Joy and Haim,8961681.0,The 1989 World Tour,34.0536909,-118.242766,70563.0,70563.0,0.0,2015-08-24
+Los Angeles,United States,Staples Center,Vance Joy and Haim,8961681.0,The 1989 World Tour,34.0536909,-118.242766,70563.0,70563.0,0.0,2015-08-25
+Los Angeles,United States,Staples Center,Vance Joy and Haim,8961681.0,The 1989 World Tour,34.0536909,-118.242766,70563.0,70563.0,0.0,2015-08-26
+Los Angeles,United States,Staples Center,Vance Joy and Haim,8961681.0,The 1989 World Tour,34.0536909,-118.242766,70563.0,70563.0,0.0,2015-08-21
+Los Angeles,United States,Staples Center,Vance Joy and Haim,8961681.0,The 1989 World Tour,34.0536909,-118.242766,70563.0,70563.0,0.0,2015-08-22
+Los Angeles,United States,Staples Center,Vance Joy and Haim,8961681.0,The 1989 World Tour,34.0536909,-118.242766,70563.0,70563.0,0.0,2015-08-24
+Los Angeles,United States,Staples Center,Vance Joy and Haim,8961681.0,The 1989 World Tour,34.0536909,-118.242766,70563.0,70563.0,0.0,2015-08-25
+Los Angeles,United States,Staples Center,Vance Joy and Haim,8961681.0,The 1989 World Tour,34.0536909,-118.242766,70563.0,70563.0,0.0,2015-08-26
+Los Angeles,United States,Staples Center,Vance Joy and Haim,8961681.0,The 1989 World Tour,34.0536909,-118.242766,70563.0,70563.0,0.0,2015-08-21
+Los Angeles,United States,Staples Center,Vance Joy and Haim,8961681.0,The 1989 World Tour,34.0536909,-118.242766,70563.0,70563.0,0.0,2015-08-22
+Los Angeles,United States,Staples Center,Vance Joy and Haim,8961681.0,The 1989 World Tour,34.0536909,-118.242766,70563.0,70563.0,0.0,2015-08-24
+Los Angeles,United States,Staples Center,Vance Joy and Haim,8961681.0,The 1989 World Tour,34.0536909,-118.242766,70563.0,70563.0,0.0,2015-08-25
+Los Angeles,United States,Staples Center,Vance Joy and Haim,8961681.0,The 1989 World Tour,34.0536909,-118.242766,70563.0,70563.0,0.0,2015-08-26
+Los Angeles,United States,Staples Center,Vance Joy and Haim,8961681.0,The 1989 World Tour,34.0536909,-118.242766,70563.0,70563.0,0.0,2015-08-21
+Los Angeles,United States,Staples Center,Vance Joy and Haim,8961681.0,The 1989 World Tour,34.0536909,-118.242766,70563.0,70563.0,0.0,2015-08-22
+Los Angeles,United States,Staples Center,Vance Joy and Haim,8961681.0,The 1989 World Tour,34.0536909,-118.242766,70563.0,70563.0,0.0,2015-08-24
+Los Angeles,United States,Staples Center,Vance Joy and Haim,8961681.0,The 1989 World Tour,34.0536909,-118.242766,70563.0,70563.0,0.0,2015-08-25
+Los Angeles,United States,Staples Center,Vance Joy and Haim,8961681.0,The 1989 World Tour,34.0536909,-118.242766,70563.0,70563.0,0.0,2015-08-26
+San Diego,United States,Petco Park,Vance Joy and Shawn Mendes,5475237.0,The 1989 World Tour,32.7174202,-117.1627728,44710.0,44710.0,0.0,2015-08-29
+Salt Lake City,United States,EnergySolutions Arena,Vance Joy,1589686.0,The 1989 World Tour,40.7596198,-111.886797,14131.0,14131.0,0.0,2015-09-04
+Denver,United States,Pepsi Center,Vance Joy,2868991.0,The 1989 World Tour,39.7392364,-104.984862,27126.0,27126.0,0.0,2015-09-05
+Denver,United States,Pepsi Center,Vance Joy,2868991.0,The 1989 World Tour,39.7392364,-104.984862,27126.0,27126.0,0.0,2015-09-06
+Denver,United States,Pepsi Center,Vance Joy,2868991.0,The 1989 World Tour,39.7392364,-104.984862,27126.0,27126.0,0.0,2015-09-05
+Denver,United States,Pepsi Center,Vance Joy,2868991.0,The 1989 World Tour,39.7392364,-104.984862,27126.0,27126.0,0.0,2015-09-06
+Houston,United States,Minute Maid Park,Vance Joy and Shawn Mendes,5202196.0,The 1989 World Tour,29.7589382,-95.3676974,40122.0,40122.0,0.0,2015-09-09
+Saint Paul,United States,Xcel Energy Center,Vance Joy,5514863.0,The 1989 World Tour,44.9497487,-93.0931028,45126.0,45126.0,0.0,2015-09-11
+Saint Paul,United States,Xcel Energy Center,Vance Joy,5514863.0,The 1989 World Tour,44.9497487,-93.0931028,45126.0,45126.0,0.0,2015-09-12
+Saint Paul,United States,Xcel Energy Center,Vance Joy,5514863.0,The 1989 World Tour,44.9497487,-93.0931028,45126.0,45126.0,0.0,2015-09-13
+Saint Paul,United States,Xcel Energy Center,Vance Joy,5514863.0,The 1989 World Tour,44.9497487,-93.0931028,45126.0,45126.0,0.0,2015-09-11
+Saint Paul,United States,Xcel Energy Center,Vance Joy,5514863.0,The 1989 World Tour,44.9497487,-93.0931028,45126.0,45126.0,0.0,2015-09-12
+Saint Paul,United States,Xcel Energy Center,Vance Joy,5514863.0,The 1989 World Tour,44.9497487,-93.0931028,45126.0,45126.0,0.0,2015-09-13
+Saint Paul,United States,Xcel Energy Center,Vance Joy,5514863.0,The 1989 World Tour,44.9497487,-93.0931028,45126.0,45126.0,0.0,2015-09-11
+Saint Paul,United States,Xcel Energy Center,Vance Joy,5514863.0,The 1989 World Tour,44.9497487,-93.0931028,45126.0,45126.0,0.0,2015-09-12
+Saint Paul,United States,Xcel Energy Center,Vance Joy,5514863.0,The 1989 World Tour,44.9497487,-93.0931028,45126.0,45126.0,0.0,2015-09-13
+Indianapolis,United States,Bankers Life Fieldhouse,Vance Joy,1550268.0,The 1989 World Tour,39.7683331,-86.1583502,14010.0,14010.0,0.0,2015-09-16
+Columbus,United States,Nationwide Arena,Vance Joy,3369693.0,The 1989 World Tour,39.9622601,-83.0007065,29936.0,29936.0,0.0,2015-09-17
+Columbus,United States,Nationwide Arena,Vance Joy,3369693.0,The 1989 World Tour,39.9622601,-83.0007065,29936.0,29936.0,0.0,2015-09-18
+Columbus,United States,Nationwide Arena,Vance Joy,3369693.0,The 1989 World Tour,39.9622601,-83.0007065,29936.0,29936.0,0.0,2015-09-17
+Columbus,United States,Nationwide Arena,Vance Joy,3369693.0,The 1989 World Tour,39.9622601,-83.0007065,29936.0,29936.0,0.0,2015-09-18
+Kansas City,United States,Sprint Center,Vance Joy,2967558.0,The 1989 World Tour,39.100105,-94.5781416,27857.0,27857.0,0.0,2015-09-21
+Kansas City,United States,Sprint Center,Vance Joy,2967558.0,The 1989 World Tour,39.100105,-94.5781416,27857.0,27857.0,0.0,2015-09-22
+Kansas City,United States,Sprint Center,Vance Joy,2967558.0,The 1989 World Tour,39.100105,-94.5781416,27857.0,27857.0,0.0,2015-09-21
+Kansas City,United States,Sprint Center,Vance Joy,2967558.0,The 1989 World Tour,39.100105,-94.5781416,27857.0,27857.0,0.0,2015-09-22
+Nashville,United States,Bridgestone Arena,Vance Joy and Haim,3354844.0,The 1989 World Tour,36.1622767,-86.7742984,28917.0,28917.0,0.0,2015-09-25
+Nashville,United States,Bridgestone Arena,Vance Joy and Haim,3354844.0,The 1989 World Tour,36.1622767,-86.7742984,28917.0,28917.0,0.0,2015-09-26
+Nashville,United States,Bridgestone Arena,Vance Joy and Haim,3354844.0,The 1989 World Tour,36.1622767,-86.7742984,28917.0,28917.0,0.0,2015-09-25
+Nashville,United States,Bridgestone Arena,Vance Joy and Haim,3354844.0,The 1989 World Tour,36.1622767,-86.7742984,28917.0,28917.0,0.0,2015-09-26
+St. Louis,United States,Scottrade Center,Vance Joy and Haim,3452940.0,The 1989 World Tour,38.6280278,-90.1910154,29688.0,29688.0,0.0,2015-09-28
+St. Louis,United States,Scottrade Center,Vance Joy and Haim,3452940.0,The 1989 World Tour,38.6280278,-90.1910154,29688.0,29688.0,0.0,2015-09-29
+St. Louis,United States,Scottrade Center,Vance Joy and Haim,3452940.0,The 1989 World Tour,38.6280278,-90.1910154,29688.0,29688.0,0.0,2015-09-28
+St. Louis,United States,Scottrade Center,Vance Joy and Haim,3452940.0,The 1989 World Tour,38.6280278,-90.1910154,29688.0,29688.0,0.0,2015-09-29
+Toronto,Canada,Rogers Centre,Vance Joy and Shawn Mendes,8670990.0,The 1989 World Tour,43.6534817,-79.3839347,99283.0,99283.0,0.0,2015-10-02
+Toronto,Canada,Rogers Centre,Vance Joy and Shawn Mendes,8670990.0,The 1989 World Tour,43.6534817,-79.3839347,99283.0,99283.0,0.0,2015-10-03
+Toronto,Canada,Rogers Centre,Vance Joy and Shawn Mendes,8670990.0,The 1989 World Tour,43.6534817,-79.3839347,99283.0,99283.0,0.0,2015-10-02
+Toronto,Canada,Rogers Centre,Vance Joy and Shawn Mendes,8670990.0,The 1989 World Tour,43.6534817,-79.3839347,99283.0,99283.0,0.0,2015-10-03
+Des Moines,United States,Wells Fargo Arena,Vance Joy,1566321.0,The 1989 World Tour,41.5910323,-93.6046655,13969.0,13969.0,0.0,2015-10-08
+Omaha,United States,CenturyLink Center,Vance Joy,3121421.0,The 1989 World Tour,41.2587459,-95.9383758,29622.0,29622.0,0.0,2015-10-09
+Omaha,United States,CenturyLink Center,Vance Joy,3121421.0,The 1989 World Tour,41.2587459,-95.9383758,29622.0,29622.0,0.0,2015-10-10
+Omaha,United States,CenturyLink Center,Vance Joy,3121421.0,The 1989 World Tour,41.2587459,-95.9383758,29622.0,29622.0,0.0,2015-10-09
+Omaha,United States,CenturyLink Center,Vance Joy,3121421.0,The 1989 World Tour,41.2587459,-95.9383758,29622.0,29622.0,0.0,2015-10-10
+Fargo,United States,Fargodome,Vance Joy,2219188.0,The 1989 World Tour,46.877229,-96.789821,21067.0,21067.0,0.0,2015-10-12
+Arlington,United States,AT&T Stadium,Vance Joy and Shawn Mendes,7396733.0,The 1989 World Tour,32.7355816,-97.1071186,62630.0,62630.0,0.0,2015-10-17
+Lexington,United States,Rupp Arena,Vance Joy,1870471.0,The 1989 World Tour,38.0464066,-84.4970393,17084.0,17084.0,0.0,2015-10-20
+Greensboro,United States,Greensboro Coliseum Complex,Vance Joy,1662171.0,The 1989 World Tour,36.0726355,-79.7919754,15079.0,15079.0,0.0,2015-10-21
+Atlanta,United States,Georgia Dome,Vance Joy and Shawn Mendes,6034846.0,The 1989 World Tour,33.7489924,-84.3902644,56046.0,56046.0,0.0,2015-10-24
+Miami,United States,American Airlines Arena,Vance Joy,1527919.0,The 1989 World Tour,25.7741728,-80.19362,14044.0,14044.0,0.0,2015-10-27
+Tampa,United States,Raymond James Stadium,Vance Joy and Shawn Mendes,6202515.0,The 1989 World Tour,27.9477595,-82.458444,56987.0,56987.0,0.0,2015-10-31
+Singapore,Singapore,Singapore Indoor Stadium,,3217569.0,The 1989 World Tour,1.357107,103.8194992,17726.0,17726.0,0.0,2015-11-07
+Singapore,Singapore,Singapore Indoor Stadium,,3217569.0,The 1989 World Tour,1.357107,103.8194992,17726.0,17726.0,0.0,2015-11-08
+Singapore,Singapore,Singapore Indoor Stadium,,3217569.0,The 1989 World Tour,1.357107,103.8194992,17726.0,17726.0,0.0,2015-11-07
+Singapore,Singapore,Singapore Indoor Stadium,,3217569.0,The 1989 World Tour,1.357107,103.8194992,17726.0,17726.0,0.0,2015-11-08
+Shanghai,China,Mercedes-Benz Arena,,5917348.0,The 1989 World Tour,31.2312707,121.4700152,37758.0,37758.0,0.0,2015-11-10
+Shanghai,China,Mercedes-Benz Arena,,5917348.0,The 1989 World Tour,31.2312707,121.4700152,37758.0,37758.0,0.0,2015-11-11
+Shanghai,China,Mercedes-Benz Arena,,5917348.0,The 1989 World Tour,31.2312707,121.4700152,37758.0,37758.0,0.0,2015-11-12
+Shanghai,China,Mercedes-Benz Arena,,5917348.0,The 1989 World Tour,31.2312707,121.4700152,37758.0,37758.0,0.0,2015-11-10
+Shanghai,China,Mercedes-Benz Arena,,5917348.0,The 1989 World Tour,31.2312707,121.4700152,37758.0,37758.0,0.0,2015-11-11
+Shanghai,China,Mercedes-Benz Arena,,5917348.0,The 1989 World Tour,31.2312707,121.4700152,37758.0,37758.0,0.0,2015-11-12
+Shanghai,China,Mercedes-Benz Arena,,5917348.0,The 1989 World Tour,31.2312707,121.4700152,37758.0,37758.0,0.0,2015-11-10
+Shanghai,China,Mercedes-Benz Arena,,5917348.0,The 1989 World Tour,31.2312707,121.4700152,37758.0,37758.0,0.0,2015-11-11
+Shanghai,China,Mercedes-Benz Arena,,5917348.0,The 1989 World Tour,31.2312707,121.4700152,37758.0,37758.0,0.0,2015-11-12
+Sydney,Australia,ANZ Stadium,Vance Joy,6571683.0,The 1989 World Tour,-33.8698439,151.2082848,75980.0,75980.0,0.0,2015-11-28
+Brisbane,Australia,Suncorp Stadium,Vance Joy,4759471.0,The 1989 World Tour,-27.4689682,153.0234991,46881.0,46881.0,0.0,2015-12-05
+Adelaide,Australia,Adelaide Entertainment Centre,Vance Joy,2407499.0,The 1989 World Tour,-34.9281805,138.5999312,20090.0,20090.0,0.0,2015-12-07
+Adelaide,Australia,Adelaide Entertainment Centre,Vance Joy,2407499.0,The 1989 World Tour,-34.9281805,138.5999312,20090.0,20090.0,0.0,2015-12-08
+Adelaide,Australia,Adelaide Entertainment Centre,Vance Joy,2407499.0,The 1989 World Tour,-34.9281805,138.5999312,20090.0,20090.0,0.0,2015-12-07
+Adelaide,Australia,Adelaide Entertainment Centre,Vance Joy,2407499.0,The 1989 World Tour,-34.9281805,138.5999312,20090.0,20090.0,0.0,2015-12-08
+Melbourne,Australia,AAMI Park,Vance Joy,10421553.0,The 1989 World Tour,-37.8142454,144.9631732,98136.0,98136.0,0.0,2015-12-10
+Melbourne,Australia,AAMI Park,Vance Joy,10421553.0,The 1989 World Tour,-37.8142454,144.9631732,98136.0,98136.0,0.0,2015-12-11
+Melbourne,Australia,AAMI Park,Vance Joy,10421553.0,The 1989 World Tour,-37.8142454,144.9631732,98136.0,98136.0,0.0,2015-12-12
+Melbourne,Australia,AAMI Park,Vance Joy,10421553.0,The 1989 World Tour,-37.8142454,144.9631732,98136.0,98136.0,0.0,2015-12-10
+Melbourne,Australia,AAMI Park,Vance Joy,10421553.0,The 1989 World Tour,-37.8142454,144.9631732,98136.0,98136.0,0.0,2015-12-11
+Melbourne,Australia,AAMI Park,Vance Joy,10421553.0,The 1989 World Tour,-37.8142454,144.9631732,98136.0,98136.0,0.0,2015-12-12
+Melbourne,Australia,AAMI Park,Vance Joy,10421553.0,The 1989 World Tour,-37.8142454,144.9631732,98136.0,98136.0,0.0,2015-12-10
+Melbourne,Australia,AAMI Park,Vance Joy,10421553.0,The 1989 World Tour,-37.8142454,144.9631732,98136.0,98136.0,0.0,2015-12-11
+Melbourne,Australia,AAMI Park,Vance Joy,10421553.0,The 1989 World Tour,-37.8142454,144.9631732,98136.0,98136.0,0.0,2015-12-12
+Glendale,United States,University of Phoenix Stadium,Camila Cabello and Charli XCX,7214478.0,Reputation Stadium Tour,34.1469416,-118.2478471,59157.0,59157.0,0.0,2018-05-08
+Santa Clara,United States,Levi's Stadium,Camila Cabello and Charli XCX,14006963.0,Reputation Stadium Tour,37.2333253,-121.6846349,107550.0,107550.0,0.0,2018-05-11
+Santa Clara,United States,Levi's Stadium,Camila Cabello and Charli XCX,14006963.0,Reputation Stadium Tour,37.2333253,-121.6846349,107550.0,107550.0,0.0,2018-05-12
+Santa Clara,United States,Levi's Stadium,Camila Cabello and Charli XCX,14006963.0,Reputation Stadium Tour,37.2333253,-121.6846349,107550.0,107550.0,0.0,2018-05-11
+Santa Clara,United States,Levi's Stadium,Camila Cabello and Charli XCX,14006963.0,Reputation Stadium Tour,37.2333253,-121.6846349,107550.0,107550.0,0.0,2018-05-12
+Pasadena,United States,Rose Bowl,Camila Cabello and Charli XCX,16251980.0,Reputation Stadium Tour,34.1476507,-118.1441551,118084.0,118084.0,0.0,2018-05-18
+Pasadena,United States,Rose Bowl,Camila Cabello and Charli XCX,16251980.0,Reputation Stadium Tour,34.1476507,-118.1441551,118084.0,118084.0,0.0,2018-05-19
+Pasadena,United States,Rose Bowl,Camila Cabello and Charli XCX,16251980.0,Reputation Stadium Tour,34.1476507,-118.1441551,118084.0,118084.0,0.0,2018-05-18
+Pasadena,United States,Rose Bowl,Camila Cabello and Charli XCX,16251980.0,Reputation Stadium Tour,34.1476507,-118.1441551,118084.0,118084.0,0.0,2018-05-19
+Seattle,United States,CenturyLink Field,Charli XCX,8672219.0,Reputation Stadium Tour,47.6038321,-122.330062,56021.0,56021.0,0.0,2018-05-22
+Denver,United States,Sports Authority Field at Mile High,Camila Cabello and Charli XCX,7926366.0,Reputation Stadium Tour,39.7392364,-104.984862,57140.0,57140.0,0.0,2018-05-25
+Chicago,United States,Soldier Field,Camila Cabello and Charli XCX,14576697.0,Reputation Stadium Tour,41.8755616,-87.6244212,105208.0,105208.0,0.0,2018-06-01
+Chicago,United States,Soldier Field,Camila Cabello and Charli XCX,14576697.0,Reputation Stadium Tour,41.8755616,-87.6244212,105208.0,105208.0,0.0,2018-06-02
+Chicago,United States,Soldier Field,Camila Cabello and Charli XCX,14576697.0,Reputation Stadium Tour,41.8755616,-87.6244212,105208.0,105208.0,0.0,2018-06-01
+Chicago,United States,Soldier Field,Camila Cabello and Charli XCX,14576697.0,Reputation Stadium Tour,41.8755616,-87.6244212,105208.0,105208.0,0.0,2018-06-02
+Manchester,England,Etihad Stadium,Camila Cabello and Charli XCX,6169724.0,Reputation Stadium Tour,53.4794892,-2.2451148,77258.0,77258.0,0.0,2018-06-08
+Manchester,England,Etihad Stadium,Camila Cabello and Charli XCX,6169724.0,Reputation Stadium Tour,53.4794892,-2.2451148,77258.0,77258.0,0.0,2018-06-09
+Manchester,England,Etihad Stadium,Camila Cabello and Charli XCX,6169724.0,Reputation Stadium Tour,53.4794892,-2.2451148,77258.0,77258.0,0.0,2018-06-08
+Manchester,England,Etihad Stadium,Camila Cabello and Charli XCX,6169724.0,Reputation Stadium Tour,53.4794892,-2.2451148,77258.0,77258.0,0.0,2018-06-09
+Dublin,Ireland,Croke Park,Camila Cabello and Charli XCX,8567769.0,Reputation Stadium Tour,53.3493795,-6.2605593,133034.0,133034.0,0.0,2018-06-15
+Dublin,Ireland,Croke Park,Camila Cabello and Charli XCX,8567769.0,Reputation Stadium Tour,53.3493795,-6.2605593,133034.0,133034.0,0.0,2018-06-16
+Dublin,Ireland,Croke Park,Camila Cabello and Charli XCX,8567769.0,Reputation Stadium Tour,53.3493795,-6.2605593,133034.0,133034.0,0.0,2018-06-15
+Dublin,Ireland,Croke Park,Camila Cabello and Charli XCX,8567769.0,Reputation Stadium Tour,53.3493795,-6.2605593,133034.0,133034.0,0.0,2018-06-16
+London,England,Wembley Stadium,Camila Cabello and Charli XCX,12214933.0,Reputation Stadium Tour,51.5074456,-0.1277653,143427.0,143427.0,0.0,2018-06-22
+London,England,Wembley Stadium,Camila Cabello and Charli XCX,12214933.0,Reputation Stadium Tour,51.5074456,-0.1277653,143427.0,143427.0,0.0,2018-06-23
+London,England,Wembley Stadium,Camila Cabello and Charli XCX,12214933.0,Reputation Stadium Tour,51.5074456,-0.1277653,143427.0,143427.0,0.0,2018-06-22
+London,England,Wembley Stadium,Camila Cabello and Charli XCX,12214933.0,Reputation Stadium Tour,51.5074456,-0.1277653,143427.0,143427.0,0.0,2018-06-23
+Louisville,United States,Cardinal Stadium,Camila Cabello and Charli XCX,4928219.0,Reputation Stadium Tour,38.2542376,-85.759407,52138.0,52138.0,0.0,2018-06-30
+Columbus,United States,Ohio Stadium,Camila Cabello and Charli XCX,6606529.0,Reputation Stadium Tour,39.9622601,-83.0007065,62897.0,62897.0,0.0,2018-07-07
+Landover,United States,FedExField,Camila Cabello and Charli XCX,11396004.0,Reputation Stadium Tour,38.9340002,-76.8966397,95672.0,95672.0,0.0,2018-07-10
+Landover,United States,FedExField,Camila Cabello and Charli XCX,11396004.0,Reputation Stadium Tour,38.9340002,-76.8966397,95672.0,95672.0,0.0,2018-07-11
+Landover,United States,FedExField,Camila Cabello and Charli XCX,11396004.0,Reputation Stadium Tour,38.9340002,-76.8966397,95672.0,95672.0,0.0,2018-07-10
+Landover,United States,FedExField,Camila Cabello and Charli XCX,11396004.0,Reputation Stadium Tour,38.9340002,-76.8966397,95672.0,95672.0,0.0,2018-07-11
+Philadelphia,United States,Lincoln Financial Field,Camila Cabello and Charli XCX,11951047.0,Reputation Stadium Tour,39.9527237,-75.1635262,107378.0,107378.0,0.0,2018-07-13
+Philadelphia,United States,Lincoln Financial Field,Camila Cabello and Charli XCX,11951047.0,Reputation Stadium Tour,39.9527237,-75.1635262,107378.0,107378.0,0.0,2018-07-14
+Philadelphia,United States,Lincoln Financial Field,Camila Cabello and Charli XCX,11951047.0,Reputation Stadium Tour,39.9527237,-75.1635262,107378.0,107378.0,0.0,2018-07-13
+Philadelphia,United States,Lincoln Financial Field,Camila Cabello and Charli XCX,11951047.0,Reputation Stadium Tour,39.9527237,-75.1635262,107378.0,107378.0,0.0,2018-07-14
+Cleveland,United States,FirstEnergy Stadium,Camila Cabello and Charli XCX,5148757.0,Reputation Stadium Tour,41.4996574,-81.6936772,51323.0,51323.0,0.0,2018-07-17
+East Rutherford,United States,MetLife Stadium,Camila Cabello and Charli XCX,22031386.0,Reputation Stadium Tour,40.833989,-74.0970865,165654.0,165654.0,0.0,2018-07-20
+East Rutherford,United States,MetLife Stadium,Camila Cabello and Charli XCX,22031386.0,Reputation Stadium Tour,40.833989,-74.0970865,165654.0,165654.0,0.0,2018-07-21
+East Rutherford,United States,MetLife Stadium,Camila Cabello and Charli XCX,22031386.0,Reputation Stadium Tour,40.833989,-74.0970865,165654.0,165654.0,0.0,2018-07-22
+East Rutherford,United States,MetLife Stadium,Camila Cabello and Charli XCX,22031386.0,Reputation Stadium Tour,40.833989,-74.0970865,165654.0,165654.0,0.0,2018-07-20
+East Rutherford,United States,MetLife Stadium,Camila Cabello and Charli XCX,22031386.0,Reputation Stadium Tour,40.833989,-74.0970865,165654.0,165654.0,0.0,2018-07-21
+East Rutherford,United States,MetLife Stadium,Camila Cabello and Charli XCX,22031386.0,Reputation Stadium Tour,40.833989,-74.0970865,165654.0,165654.0,0.0,2018-07-22
+East Rutherford,United States,MetLife Stadium,Camila Cabello and Charli XCX,22031386.0,Reputation Stadium Tour,40.833989,-74.0970865,165654.0,165654.0,0.0,2018-07-20
+East Rutherford,United States,MetLife Stadium,Camila Cabello and Charli XCX,22031386.0,Reputation Stadium Tour,40.833989,-74.0970865,165654.0,165654.0,0.0,2018-07-21
+East Rutherford,United States,MetLife Stadium,Camila Cabello and Charli XCX,22031386.0,Reputation Stadium Tour,40.833989,-74.0970865,165654.0,165654.0,0.0,2018-07-22
+Foxborough,United States,Gillette Stadium,Camila Cabello and Charli XCX,21779846.0,Reputation Stadium Tour,42.0653768,-71.2478308,174764.0,174764.0,0.0,2018-07-26
+Foxborough,United States,Gillette Stadium,Camila Cabello and Charli XCX,21779846.0,Reputation Stadium Tour,42.0653768,-71.2478308,174764.0,174764.0,0.0,2018-07-27
+Foxborough,United States,Gillette Stadium,Camila Cabello and Charli XCX,21779846.0,Reputation Stadium Tour,42.0653768,-71.2478308,174764.0,174764.0,0.0,2018-07-28
+Foxborough,United States,Gillette Stadium,Camila Cabello and Charli XCX,21779846.0,Reputation Stadium Tour,42.0653768,-71.2478308,174764.0,174764.0,0.0,2018-07-26
+Foxborough,United States,Gillette Stadium,Camila Cabello and Charli XCX,21779846.0,Reputation Stadium Tour,42.0653768,-71.2478308,174764.0,174764.0,0.0,2018-07-27
+Foxborough,United States,Gillette Stadium,Camila Cabello and Charli XCX,21779846.0,Reputation Stadium Tour,42.0653768,-71.2478308,174764.0,174764.0,0.0,2018-07-28
+Foxborough,United States,Gillette Stadium,Camila Cabello and Charli XCX,21779846.0,Reputation Stadium Tour,42.0653768,-71.2478308,174764.0,174764.0,0.0,2018-07-26
+Foxborough,United States,Gillette Stadium,Camila Cabello and Charli XCX,21779846.0,Reputation Stadium Tour,42.0653768,-71.2478308,174764.0,174764.0,0.0,2018-07-27
+Foxborough,United States,Gillette Stadium,Camila Cabello and Charli XCX,21779846.0,Reputation Stadium Tour,42.0653768,-71.2478308,174764.0,174764.0,0.0,2018-07-28
+Toronto,Canada,Rogers Centre,Camila Cabello and Charli XCX,11177000.0,Reputation Stadium Tour,43.6534817,-79.3839347,100310.0,100310.0,0.0,2018-08-03
+Toronto,Canada,Rogers Centre,Camila Cabello and Charli XCX,11177000.0,Reputation Stadium Tour,43.6534817,-79.3839347,100310.0,100310.0,0.0,2018-08-04
+Toronto,Canada,Rogers Centre,Camila Cabello and Charli XCX,11177000.0,Reputation Stadium Tour,43.6534817,-79.3839347,100310.0,100310.0,0.0,2018-08-03
+Toronto,Canada,Rogers Centre,Camila Cabello and Charli XCX,11177000.0,Reputation Stadium Tour,43.6534817,-79.3839347,100310.0,100310.0,0.0,2018-08-04
+Pittsburgh,United States,Heinz Field,Camila Cabello and Charli XCX,6230876.0,Reputation Stadium Tour,40.4416941,-79.9900861,56445.0,56445.0,0.0,2018-08-07
+Atlanta,United States,Mercedes-Benz Stadium,Camila Cabello and Charli XCX,18089415.0,Reputation Stadium Tour,33.7489924,-84.3902644,116746.0,116746.0,0.0,2018-08-10
+Atlanta,United States,Mercedes-Benz Stadium,Camila Cabello and Charli XCX,18089415.0,Reputation Stadium Tour,33.7489924,-84.3902644,116746.0,116746.0,0.0,2018-08-11
+Atlanta,United States,Mercedes-Benz Stadium,Camila Cabello and Charli XCX,18089415.0,Reputation Stadium Tour,33.7489924,-84.3902644,116746.0,116746.0,0.0,2018-08-10
+Atlanta,United States,Mercedes-Benz Stadium,Camila Cabello and Charli XCX,18089415.0,Reputation Stadium Tour,33.7489924,-84.3902644,116746.0,116746.0,0.0,2018-08-11
+Tampa,United States,Raymond James Stadium,Camila Cabello and Charli XCX,7244264.0,Reputation Stadium Tour,27.9477595,-82.458444,55909.0,55909.0,0.0,2018-08-14
+Miami,United States,Hard Rock Stadium,Camila Cabello and Charli XCX,7072164.0,Reputation Stadium Tour,25.9420377,-80.2456045,47818.0,47818.0,0.0,2018-08-18
+Nashville,United States,Nissan Stadium,Camila Cabello and Charli XCX,9007179.0,Reputation Stadium Tour,36.1622767,-86.7742984,56112.0,56112.0,0.0,2018-08-25
+Detroit,United States,Ford Field,Camila Cabello and Charli XCX,6597852.0,Reputation Stadium Tour,42.3315509,-83.0466403,49464.0,49464.0,0.0,2018-08-28
+Minneapolis,United States,U.S. Bank Stadium,Camila Cabello and Charli XCX,10242024.0,Reputation Stadium Tour,44.9772995,-93.2654692,98774.0,98774.0,0.0,2018-08-31
+Minneapolis,United States,U.S. Bank Stadium,Camila Cabello and Charli XCX,10242024.0,Reputation Stadium Tour,44.9772995,-93.2654692,98774.0,98774.0,0.0,2018-09-01
+Minneapolis,United States,U.S. Bank Stadium,Camila Cabello and Charli XCX,10242024.0,Reputation Stadium Tour,44.9772995,-93.2654692,98774.0,98774.0,0.0,2018-08-31
+Minneapolis,United States,U.S. Bank Stadium,Camila Cabello and Charli XCX,10242024.0,Reputation Stadium Tour,44.9772995,-93.2654692,98774.0,98774.0,0.0,2018-09-01
+Kansas City,United States,Arrowhead Stadium,Camila Cabello and Charli XCX,6730138.0,Reputation Stadium Tour,39.100105,-94.5781416,58611.0,58611.0,0.0,2018-09-08
+Indianapolis,United States,Lucas Oil Stadium,Camila Cabello and Charli XCX,6531245.0,Reputation Stadium Tour,39.7683331,-86.1583502,55729.0,55729.0,0.0,2018-09-15
+St. Louis,United States,The Dome at America's Center,Camila Cabello and Charli XCX,4884054.0,Reputation Stadium Tour,38.6280278,-90.1910154,47831.0,47831.0,0.0,2018-09-18
+New Orleans,United States,Mercedes-Benz Superdome,Camila Cabello and Charli XCX,6491546.0,Reputation Stadium Tour,29.9759983,-90.0782127,53172.0,53172.0,0.0,2018-09-22
+Houston,United States,NRG Stadium,Camila Cabello and Charli XCX,9350275.0,Reputation Stadium Tour,29.7589382,-95.3676974,53800.0,53800.0,0.0,2018-09-29
+Arlington,United States,AT&T Stadium,Camila Cabello and Charli XCX,15006157.0,Reputation Stadium Tour,32.7355816,-97.1071186,105002.0,105002.0,0.0,2018-10-05
+Arlington,United States,AT&T Stadium,Camila Cabello and Charli XCX,15006157.0,Reputation Stadium Tour,32.7355816,-97.1071186,105002.0,105002.0,0.0,2018-10-06
+Arlington,United States,AT&T Stadium,Camila Cabello and Charli XCX,15006157.0,Reputation Stadium Tour,32.7355816,-97.1071186,105002.0,105002.0,0.0,2018-10-05
+Arlington,United States,AT&T Stadium,Camila Cabello and Charli XCX,15006157.0,Reputation Stadium Tour,32.7355816,-97.1071186,105002.0,105002.0,0.0,2018-10-06
+Perth,Australia,Optus Stadium,Charli XCX and Broods,4153658.0,Reputation Stadium Tour,-31.9558933,115.8605855,50891.0,50891.0,0.0,2018-10-19
+Melbourne,Australia,Marvel Stadium,Charli XCX and Broods,6755570.0,Reputation Stadium Tour,-37.8142454,144.9631732,63027.0,63027.0,0.0,2018-10-26
+Sydney,Australia,ANZ Stadium,Charli XCX and Broods,7686564.0,Reputation Stadium Tour,-33.8698439,151.2082848,72805.0,72805.0,0.0,2018-11-02
+Brisbane,Australia,The Gabba,Charli XCX and Broods,4338127.0,Reputation Stadium Tour,-27.4689682,153.0234991,43907.0,43907.0,0.0,2018-11-06
+Auckland,New Zealand,Mount Smart Stadium,Charli XCX and Broods,3617593.0,Reputation Stadium Tour,-36.852095,174.7631803,35749.0,35749.0,0.0,2018-11-09
+Tokyo,Japan,Tokyo Dome,Charli XCX,14859847.0,Reputation Stadium Tour,35.6821936,139.762221,100109.0,100109.0,0.0,2018-11-20
+Tokyo,Japan,Tokyo Dome,Charli XCX,14859847.0,Reputation Stadium Tour,35.6821936,139.762221,100109.0,100109.0,0.0,2018-11-21
+Tokyo,Japan,Tokyo Dome,Charli XCX,14859847.0,Reputation Stadium Tour,35.6821936,139.762221,100109.0,100109.0,0.0,2018-11-20
+Tokyo,Japan,Tokyo Dome,Charli XCX,14859847.0,Reputation Stadium Tour,35.6821936,139.762221,100109.0,100109.0,0.0,2018-11-21
