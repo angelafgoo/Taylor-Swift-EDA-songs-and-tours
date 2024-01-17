@@ -91,8 +91,8 @@ with trev_col:
 
 # Horizontal menu
 selected_menu = option_menu(None,
-                            ["Overview", "Popularity", "Emotions and Rythm", "Tour Revenues"],
-                            icons=['eye', 'star', 'emoji-smile', 'cash'],
+                            ["Overview", "Popularity", "Emotions and Rythm", "Tour Revenues", "Author"],
+                            icons=['eye', 'star', 'emoji-smile', 'cash', 'person'],
                             menu_icon="cast", default_index=0, orientation="horizontal")
 
 # --------------------------------------------------------------------
@@ -488,8 +488,32 @@ The earnings from the Reputation Stadium Tour are coherent considering the circu
         folium_static(m)
         
 
+
     
 
     st.write("""
 It can be concluded that, at least for Taylor Swift's fans, the most captivating experiences seem to be reflected in songs that are neutral and/or negative. This preference contributes to the success and exponential growth of the artist.
 """)
+
+
+if selected_menu == "Author":
+
+    # Agregar biografía
+    st.write("""
+    Hi there! I'm Angela Guajardo, and I'm currently in my final semester pursuing a B.S. in Business Digital Transformation at Tecnológico de Monterrey, Campus Monterrey. This project originated from the Data Analytics and Artificial Intelligence Tools concentration, where we were given the freedom to choose our own topic.
+
+    I'm a devoted fan of the singer Taylor Swift, and the hours spent crafting and further developing this data analysis of her artistic success have been some of the most rewarding in my professional development.
+    """)
+
+    # Agregar sección "Let's connect!"
+    st.write("""
+    If you have any feedback or suggestions on how to enhance this website, feel free to DM me! Your input is highly valuable!
+
+    Let's make this space better together!
+    """)
+
+    # Agregar enlaces a redes sociales
+    st.subheader("Find me on:")
+    st.markdown("[Twitter](https://twitter.com/FeliciaGuajardo)")
+    st.markdown("[LinkedIn](https://www.linkedin.com/in/angelaguajardo/)")
+    st.markdown("[GitHub](https://github.com/angelafgoo)")
