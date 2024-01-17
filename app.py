@@ -486,10 +486,7 @@ The earnings from the Reputation Stadium Tour are coherent considering the circu
         # Mostrar el mapa de Folium en Streamlit
         st.markdown(f'<h3>Revenue Map by Tour in the United States ({selected_tour})</h3>', unsafe_allow_html=True)
         folium_static(m)
-        st.write("Filtered DataFrame for the United States:", filtered_df_us)
-    else:
-        st.write("No data available for the selected tour.")
-
+        
 
     
 
