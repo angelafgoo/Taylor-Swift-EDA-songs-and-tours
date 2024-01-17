@@ -456,29 +456,40 @@ The earnings from the Reputation Stadium Tour are coherent considering the circu
 
     # Modificar el DataFrame para consolidar ganancias
     if selected_tour == "All Tours":
-        # Agrupar por Venue y calcular la suma de las ganancias
-        grouped_df = filtered_df_us.groupby("Venue")["Revenue"].sum().reset_index()
+        # Agrupar por Tour, Venue y calcular la suma de las ganancias
+        grouped_df = filtered_df_us.groupby(["Tour", "Venue"]).agg({
+            "Revenue": "sum",
+            "Latitude": "mean",
+            "Longitude": "mean",
+            "City": "first"  # Tomar la primera ciudad en caso de múltiples
+        }).reset_index()
         # Actualizar filtered_df_us con las sumas calculadas
-        filtered_df_us = filtered_df_us.drop_duplicates("Venue").merge(grouped_df, on="Venue")
+        filtered_df_us = grouped_df.copy()
 
     # Crear un mapa con Folium
-    m = folium.Map(location=[filtered_df_us["Latitude"].mean(), filtered_df_us["Longitude"].mean()], zoom_start=4)
+    if not filtered_df_us.empty and 'Latitude' in filtered_df_us.columns and 'Longitude' in filtered_df_us.columns:
+        m = folium.Map(location=[filtered_df_us["Latitude"].mean(), filtered_df_us["Longitude"].mean()], zoom_start=4)
 
-    # Agregar los marcadores al mapa
-    marker_cluster = MarkerCluster().add_to(m)
-    for index, row in filtered_df_us.iterrows():
-        # Formatear la ganancia en formato de dinero
-        formatted_revenue = "${:,.2f}".format(row['Revenue_y'])        # Construir el contenido del popup con información adicional (en este caso, el Venue)
-        popup_content = f"City: {row['City']}<br>Revenue: {formatted_revenue}<br>Venue: {row['Venue']}"
+        # Agregar los marcadores al mapa
+        marker_cluster = MarkerCluster().add_to(m)
+        for index, row in filtered_df_us.iterrows():
+            # Formatear la ganancia en formato de dinero
+            formatted_revenue = "${:,.2f}".format(row['Revenue'])
+            # Construir el contenido del popup con información adicional
+            popup_content = f"Tour: {row['Tour']}<br>City: {row['City']}<br>Revenue: {formatted_revenue}<br>Venue: {row['Venue']}"
 
-        # Agregar el marcador al mapa con el contenido del popup
-        folium.Marker([row["Latitude"], row["Longitude"]],
-                    popup=popup_content,
-                    icon=None).add_to(marker_cluster)
+            # Agregar el marcador al mapa con el contenido del popup
+            folium.Marker([row["Latitude"], row["Longitude"]],
+                        popup=popup_content,
+                        icon=None).add_to(marker_cluster)
 
-    # Mostrar el mapa de Folium en Streamlit
-    st.markdown('<h3>Revenue Map by Tour in the United States</h3>', unsafe_allow_html=True)
-    folium_static(m)
+        # Mostrar el mapa de Folium en Streamlit
+        st.markdown(f'<h3>Revenue Map by Tour in the United States ({selected_tour})</h3>', unsafe_allow_html=True)
+        folium_static(m)
+        st.write("Filtered DataFrame for the United States:", filtered_df_us)
+    else:
+        st.write("No data available for the selected tour.")
+
 
     
 
