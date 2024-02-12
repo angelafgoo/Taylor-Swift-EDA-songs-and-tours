@@ -12,6 +12,7 @@ st.set_page_config(
     layout="wide",
     page_title = "Taylor Swift's Emotional Impact on Success")
 
+# en revision
 # Implementar el cache en el sitio web para evitar el reload
 @st.cache_data   #Quitar el reload
 def load_data_df(file):
